@@ -1,0 +1,2002 @@
+user_id,mpin,pattern_type,label,guessability_percentage,comment
+C4_0291,1313,Alternating,Weak,73,Alternating digits
+C6_0958,131313,Special/Other,Weak,65,Special dates
+C4_0231,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0092,0000,Repeated Digits,Weak,95,All digits same
+S_0664,726904,Random,Strong,10,No known pattern
+S_0061,6345,Random,Strong,10,No known pattern
+S_0854,952430,Random,Strong,10,No known pattern
+S_0095,2587,Random,Strong,10,No known pattern
+S_0715,483179,Random,Strong,10,No known pattern
+C6_0962,151515,Special/Other,Weak,65,Special dates
+S_0301,5702,Random,Strong,10,No known pattern
+S_0196,8612,Random,Strong,10,No known pattern
+C6_0592,000000,Repeated Digits,Weak,95,All digits same
+S_0590,907354,Random,Strong,10,No known pattern
+S_0768,205437,Random,Strong,10,No known pattern
+S_0559,380426,Random,Strong,10,No known pattern
+S_0900,368947,Random,Strong,10,No known pattern
+S_0335,7842,Random,Strong,10,No known pattern
+C6_0787,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0575,352104,Random,Strong,10,No known pattern
+C6_0937,151515,Special/Other,Weak,65,Special dates
+S_0365,0679,Random,Strong,10,No known pattern
+C6_0905,112233,Doublets,Weak,70,Double pairs
+C6_0527,123456,Sequential,Weak,90,Straight sequences
+S_0424,5380,Random,Strong,10,No known pattern
+S_0215,2315,Random,Strong,10,No known pattern
+C6_0888,112233,Doublets,Weak,70,Double pairs
+C4_0136,9999,Repeated Digits,Weak,95,All digits same
+C6_0743,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0727,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0096,8561,Random,Strong,10,No known pattern
+S_0431,3490,Random,Strong,10,No known pattern
+S_0117,4369,Random,Strong,10,No known pattern
+C6_0618,000000,Repeated Digits,Weak,95,All digits same
+C6_0641,111111,Repeated Digits,Weak,95,All digits same
+S_0935,094135,Random,Strong,10,No known pattern
+S_0296,7362,Random,Strong,10,No known pattern
+C6_0876,112233,Doublets,Weak,70,Double pairs
+S_0488,9768,Random,Strong,10,No known pattern
+S_0289,5392,Random,Strong,10,No known pattern
+C4_0429,7788,Doublets,Weak,70,Double pairs
+S_0677,069547,Random,Strong,10,No known pattern
+S_0602,628901,Random,Strong,10,No known pattern
+S_0522,069832,Random,Strong,10,No known pattern
+C6_0703,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0811,210974,Random,Strong,10,No known pattern
+C6_0987,131313,Special/Other,Weak,65,Special dates
+S_0776,105728,Random,Strong,10,No known pattern
+S_0528,249357,Random,Strong,10,No known pattern
+S_0284,6183,Random,Strong,10,No known pattern
+C6_0911,112233,Doublets,Weak,70,Double pairs
+S_0996,174086,Random,Strong,10,No known pattern
+S_0199,3905,Random,Strong,10,No known pattern
+C6_0884,112233,Doublets,Weak,70,Double pairs
+C4_0503,2020,Special/Other,Weak,65,Famous dates or symbols
+C6_0828,121212,Alternating,Weak,73,Alternating digits
+S_0829,086539,Random,Strong,10,No known pattern
+C6_0697,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0032,3456,Sequential,Weak,90,Straight sequences
+S_0540,409365,Random,Strong,10,No known pattern
+C4_0057,4321,Sequential,Weak,90,Straight sequences
+C4_0074,9999,Repeated Digits,Weak,95,All digits same
+C6_0746,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0990,151515,Special/Other,Weak,65,Special dates
+S_0716,081539,Random,Strong,10,No known pattern
+C6_0637,000000,Repeated Digits,Weak,95,All digits same
+S_0928,215984,Random,Strong,10,No known pattern
+S_0632,294356,Random,Strong,10,No known pattern
+C4_0282,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0875,235087,Random,Strong,10,No known pattern
+C6_0525,123456,Sequential,Weak,90,Straight sequences
+S_0683,014925,Random,Strong,10,No known pattern
+C6_0638,111111,Repeated Digits,Weak,95,All digits same
+S_0601,025489,Random,Strong,10,No known pattern
+S_0429,5869,Random,Strong,10,No known pattern
+C4_0211,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0763,207615,Random,Strong,10,No known pattern
+S_0251,1854,Random,Strong,10,No known pattern
+S_0654,701243,Random,Strong,10,No known pattern
+S_0230,3609,Random,Strong,10,No known pattern
+C6_0738,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0523,319806,Random,Strong,10,No known pattern
+S_0766,764295,Random,Strong,10,No known pattern
+S_0973,460153,Random,Strong,10,No known pattern
+C6_0657,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0306,1695,Random,Strong,10,No known pattern
+C6_0752,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0975,903425,Random,Strong,10,No known pattern
+C6_0945,131313,Special/Other,Weak,65,Special dates
+S_0746,926153,Random,Strong,10,No known pattern
+S_0077,4879,Random,Strong,10,No known pattern
+S_0129,8319,Random,Strong,10,No known pattern
+C4_0319,1212,Alternating,Weak,73,Alternating digits
+S_0065,6521,Random,Strong,10,No known pattern
+S_0471,5124,Random,Strong,10,No known pattern
+S_0287,4506,Random,Strong,10,No known pattern
+C4_0468,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0433,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0855,167952,Random,Strong,10,No known pattern
+C6_0556,123456,Sequential,Weak,90,Straight sequences
+S_0702,163295,Random,Strong,10,No known pattern
+S_0361,9380,Random,Strong,10,No known pattern
+S_0516,406387,Random,Strong,10,No known pattern
+C6_0622,000000,Repeated Digits,Weak,95,All digits same
+C6_0767,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0751,523698,Random,Strong,10,No known pattern
+S_0448,3254,Random,Strong,10,No known pattern
+S_0771,913805,Random,Strong,10,No known pattern
+S_0048,0691,Random,Strong,10,No known pattern
+C4_0052,3456,Sequential,Weak,90,Straight sequences
+C6_0579,000000,Repeated Digits,Weak,95,All digits same
+S_0706,259846,Random,Strong,10,No known pattern
+C6_0983,131313,Special/Other,Weak,65,Special dates
+C6_0986,202020,Special/Other,Weak,65,Special dates
+C6_0984,202020,Special/Other,Weak,65,Special dates
+S_0944,875012,Random,Strong,10,No known pattern
+S_0041,7598,Random,Strong,10,No known pattern
+S_0443,4961,Random,Strong,10,No known pattern
+S_0227,0465,Random,Strong,10,No known pattern
+C6_0615,000000,Repeated Digits,Weak,95,All digits same
+S_0247,6513,Random,Strong,10,No known pattern
+C4_0422,7788,Doublets,Weak,70,Double pairs
+C6_0915,445566,Doublets,Weak,70,Double pairs
+S_0322,6095,Random,Strong,10,No known pattern
+S_0239,0316,Random,Strong,10,No known pattern
+C4_0233,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0539,654321,Sequential,Weak,90,Straight sequences
+S_0700,467892,Random,Strong,10,No known pattern
+S_0383,9258,Random,Strong,10,No known pattern
+S_0369,5382,Random,Strong,10,No known pattern
+C6_0861,445566,Doublets,Weak,70,Double pairs
+C4_0148,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0284,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0380,5566,Doublets,Weak,70,Double pairs
+S_0586,657132,Random,Strong,10,No known pattern
+C4_0451,1515,Special/Other,Weak,65,Famous dates or symbols
+S_0626,026741,Random,Strong,10,No known pattern
+C4_0178,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0509,840572,Random,Strong,10,No known pattern
+S_0505,809741,Random,Strong,10,No known pattern
+S_0413,5376,Random,Strong,10,No known pattern
+S_0241,5463,Random,Strong,10,No known pattern
+C6_0825,343434,Alternating,Weak,73,Alternating digits
+S_0543,479230,Random,Strong,10,No known pattern
+C6_0898,445566,Doublets,Weak,70,Double pairs
+S_0395,8065,Random,Strong,10,No known pattern
+S_0841,185930,Random,Strong,10,No known pattern
+S_0698,602481,Random,Strong,10,No known pattern
+C6_0707,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0149,3451,Random,Strong,10,No known pattern
+C6_0756,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0498,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0526,654321,Sequential,Weak,90,Straight sequences
+C6_0605,111111,Repeated Digits,Weak,95,All digits same
+C6_0628,000000,Repeated Digits,Weak,95,All digits same
+C6_0788,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0097,2596,Random,Strong,10,No known pattern
+C6_0978,131313,Special/Other,Weak,65,Special dates
+S_0780,937560,Random,Strong,10,No known pattern
+S_0772,639714,Random,Strong,10,No known pattern
+C6_0692,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0567,654321,Sequential,Weak,90,Straight sequences
+S_0389,3184,Random,Strong,10,No known pattern
+C4_0159,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0222,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0051,3570,Random,Strong,10,No known pattern
+C6_0891,445566,Doublets,Weak,70,Double pairs
+C6_0890,112233,Doublets,Weak,70,Double pairs
+S_0245,4938,Random,Strong,10,No known pattern
+S_0587,925740,Random,Strong,10,No known pattern
+S_0882,013472,Random,Strong,10,No known pattern
+C4_0347,1313,Alternating,Weak,73,Alternating digits
+S_0345,6294,Random,Strong,10,No known pattern
+S_0272,8654,Random,Strong,10,No known pattern
+S_0224,0869,Random,Strong,10,No known pattern
+S_0589,548936,Random,Strong,10,No known pattern
+S_0995,815467,Random,Strong,10,No known pattern
+S_0462,3507,Random,Strong,10,No known pattern
+S_0338,9340,Random,Strong,10,No known pattern
+C4_0226,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0880,941078,Random,Strong,10,No known pattern
+C4_0471,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0610,739205,Random,Strong,10,No known pattern
+S_0777,032719,Random,Strong,10,No known pattern
+S_0050,6048,Random,Strong,10,No known pattern
+C6_0595,111111,Repeated Digits,Weak,95,All digits same
+S_0686,530241,Random,Strong,10,No known pattern
+S_0007,3478,Random,Strong,10,No known pattern
+S_0701,735064,Random,Strong,10,No known pattern
+C4_0426,7788,Doublets,Weak,70,Double pairs
+S_0502,526987,Random,Strong,10,No known pattern
+C6_0736,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0583,530216,Random,Strong,10,No known pattern
+S_0613,691237,Random,Strong,10,No known pattern
+C6_0509,123456,Sequential,Weak,90,Straight sequences
+S_0737,149652,Random,Strong,10,No known pattern
+C4_0279,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0283,9351,Random,Strong,10,No known pattern
+C4_0070,2345,Sequential,Weak,90,Straight sequences
+C6_0844,121212,Alternating,Weak,73,Alternating digits
+C6_0518,654321,Sequential,Weak,90,Straight sequences
+S_0469,3618,Random,Strong,10,No known pattern
+C6_0976,151515,Special/Other,Weak,65,Special dates
+C4_0073,0000,Repeated Digits,Weak,95,All digits same
+S_0641,783296,Random,Strong,10,No known pattern
+C4_0346,1313,Alternating,Weak,73,Alternating digits
+S_0899,083216,Random,Strong,10,No known pattern
+C6_0783,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0996,202020,Special/Other,Weak,65,Special dates
+C4_0467,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0546,654321,Sequential,Weak,90,Straight sequences
+C6_0974,151515,Special/Other,Weak,65,Special dates
+S_0300,2640,Random,Strong,10,No known pattern
+C6_0507,654321,Sequential,Weak,90,Straight sequences
+S_0491,7520,Random,Strong,10,No known pattern
+C4_0077,9999,Repeated Digits,Weak,95,All digits same
+S_0356,5643,Random,Strong,10,No known pattern
+C4_0445,2020,Special/Other,Weak,65,Famous dates or symbols
+C4_0150,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0733,923870,Random,Strong,10,No known pattern
+C6_0993,202020,Special/Other,Weak,65,Special dates
+S_0947,827653,Random,Strong,10,No known pattern
+S_0642,978053,Random,Strong,10,No known pattern
+S_0576,695804,Random,Strong,10,No known pattern
+S_0202,5068,Random,Strong,10,No known pattern
+C4_0199,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0352,2323,Alternating,Weak,73,Alternating digits
+C6_0907,112233,Doublets,Weak,70,Double pairs
+C4_0292,2323,Alternating,Weak,73,Alternating digits
+S_0769,432085,Random,Strong,10,No known pattern
+C6_0777,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0378,4106,Random,Strong,10,No known pattern
+S_0779,014375,Random,Strong,10,No known pattern
+S_0631,372504,Random,Strong,10,No known pattern
+S_0163,3217,Random,Strong,10,No known pattern
+S_0417,1496,Random,Strong,10,No known pattern
+S_0578,046318,Random,Strong,10,No known pattern
+S_0504,187945,Random,Strong,10,No known pattern
+S_0821,751826,Random,Strong,10,No known pattern
+S_0889,142896,Random,Strong,10,No known pattern
+S_0115,4058,Random,Strong,10,No known pattern
+S_0905,520398,Random,Strong,10,No known pattern
+S_0363,0216,Random,Strong,10,No known pattern
+C6_0964,151515,Special/Other,Weak,65,Special dates
+C6_0570,654321,Sequential,Weak,90,Straight sequences
+S_0146,5948,Random,Strong,10,No known pattern
+C4_0480,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0724,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0242,7894,Random,Strong,10,No known pattern
+S_0906,986713,Random,Strong,10,No known pattern
+C4_0027,2345,Sequential,Weak,90,Straight sequences
+S_0890,481506,Random,Strong,10,No known pattern
+S_0171,5439,Random,Strong,10,No known pattern
+C4_0008,4321,Sequential,Weak,90,Straight sequences
+S_0386,8150,Random,Strong,10,No known pattern
+C4_0260,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0298,4910,Random,Strong,10,No known pattern
+C6_0970,151515,Special/Other,Weak,65,Special dates
+C4_0272,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0502,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0616,000000,Repeated Digits,Weak,95,All digits same
+S_0465,7189,Random,Strong,10,No known pattern
+C6_0722,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0144,2222,Repeated Digits,Weak,95,All digits same
+C4_0097,1111,Repeated Digits,Weak,95,All digits same
+C4_0372,7788,Doublets,Weak,70,Double pairs
+C6_0686,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0052,5306,Random,Strong,10,No known pattern
+S_0930,618924,Random,Strong,10,No known pattern
+C4_0477,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0922,112233,Doublets,Weak,70,Double pairs
+C6_0810,121212,Alternating,Weak,73,Alternating digits
+C4_0146,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0831,084712,Random,Strong,10,No known pattern
+C4_0221,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0504,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0105,2222,Repeated Digits,Weak,95,All digits same
+S_0381,6723,Random,Strong,10,No known pattern
+S_0794,583071,Random,Strong,10,No known pattern
+S_0166,1340,Random,Strong,10,No known pattern
+S_0305,8167,Random,Strong,10,No known pattern
+S_0941,348297,Random,Strong,10,No known pattern
+S_0657,870519,Random,Strong,10,No known pattern
+S_0566,687139,Random,Strong,10,No known pattern
+S_0967,569743,Random,Strong,10,No known pattern
+C6_0624,111111,Repeated Digits,Weak,95,All digits same
+S_0649,720619,Random,Strong,10,No known pattern
+C4_0472,1515,Special/Other,Weak,65,Famous dates or symbols
+S_0118,7124,Random,Strong,10,No known pattern
+S_0758,251803,Random,Strong,10,No known pattern
+C4_0031,2345,Sequential,Weak,90,Straight sequences
+C6_0563,654321,Sequential,Weak,90,Straight sequences
+S_0013,2413,Random,Strong,10,No known pattern
+S_0451,9750,Random,Strong,10,No known pattern
+S_0585,178693,Random,Strong,10,No known pattern
+C4_0109,9999,Repeated Digits,Weak,95,All digits same
+C4_0191,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0125,7052,Random,Strong,10,No known pattern
+C6_0625,999999,Repeated Digits,Weak,95,All digits same
+C4_0230,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0317,3762,Random,Strong,10,No known pattern
+S_0113,4109,Random,Strong,10,No known pattern
+C4_0151,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0050,4321,Sequential,Weak,90,Straight sequences
+C4_0355,1313,Alternating,Weak,73,Alternating digits
+C6_0646,111111,Repeated Digits,Weak,95,All digits same
+S_0008,8523,Random,Strong,10,No known pattern
+C6_0799,121212,Alternating,Weak,73,Alternating digits
+S_0243,4926,Random,Strong,10,No known pattern
+S_0139,5712,Random,Strong,10,No known pattern
+S_0015,0184,Random,Strong,10,No known pattern
+S_0978,817063,Random,Strong,10,No known pattern
+S_0942,879143,Random,Strong,10,No known pattern
+S_0792,572968,Random,Strong,10,No known pattern
+C6_0760,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0648,278401,Random,Strong,10,No known pattern
+C6_0709,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0177,5903,Random,Strong,10,No known pattern
+C6_0645,000000,Repeated Digits,Weak,95,All digits same
+C6_0764,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0403,1122,Doublets,Weak,70,Double pairs
+S_0029,2409,Random,Strong,10,No known pattern
+S_0444,5346,Random,Strong,10,No known pattern
+C6_0934,202020,Special/Other,Weak,65,Special dates
+S_0611,297531,Random,Strong,10,No known pattern
+C4_0437,1004,Special/Other,Weak,65,Famous dates or symbols
+C4_0250,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0698,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0902,445566,Doublets,Weak,70,Double pairs
+C4_0484,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0273,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0319,9612,Random,Strong,10,No known pattern
+S_0848,721048,Random,Strong,10,No known pattern
+C4_0238,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0684,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0388,7788,Doublets,Weak,70,Double pairs
+S_0476,4860,Random,Strong,10,No known pattern
+S_0824,147306,Random,Strong,10,No known pattern
+C6_0652,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0789,706529,Random,Strong,10,No known pattern
+S_0963,265139,Random,Strong,10,No known pattern
+S_0660,187209,Random,Strong,10,No known pattern
+C6_0971,131313,Special/Other,Weak,65,Special dates
+C6_0805,343434,Alternating,Weak,73,Alternating digits
+C4_0131,9999,Repeated Digits,Weak,95,All digits same
+S_0463,0271,Random,Strong,10,No known pattern
+S_0416,6045,Random,Strong,10,No known pattern
+S_0265,3742,Random,Strong,10,No known pattern
+C4_0156,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0095,1111,Repeated Digits,Weak,95,All digits same
+C6_0583,000000,Repeated Digits,Weak,95,All digits same
+C4_0419,1122,Doublets,Weak,70,Double pairs
+S_0083,7648,Random,Strong,10,No known pattern
+S_0435,4860,Random,Strong,10,No known pattern
+S_0598,426708,Random,Strong,10,No known pattern
+C6_0955,202020,Special/Other,Weak,65,Special dates
+C4_0424,5566,Doublets,Weak,70,Double pairs
+S_0608,824956,Random,Strong,10,No known pattern
+C6_0687,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0895,445566,Doublets,Weak,70,Double pairs
+C6_0612,999999,Repeated Digits,Weak,95,All digits same
+C6_0655,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0681,371485,Random,Strong,10,No known pattern
+S_0351,1968,Random,Strong,10,No known pattern
+S_0731,921074,Random,Strong,10,No known pattern
+C4_0038,2345,Sequential,Weak,90,Straight sequences
+S_0549,367524,Random,Strong,10,No known pattern
+C6_0999,202020,Special/Other,Weak,65,Special dates
+C6_0619,000000,Repeated Digits,Weak,95,All digits same
+S_0999,162853,Random,Strong,10,No known pattern
+C6_0950,202020,Special/Other,Weak,65,Special dates
+S_0255,6745,Random,Strong,10,No known pattern
+S_0271,8136,Random,Strong,10,No known pattern
+C4_0157,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0600,418236,Random,Strong,10,No known pattern
+C4_0317,2323,Alternating,Weak,73,Alternating digits
+C6_0929,112233,Doublets,Weak,70,Double pairs
+S_0630,317594,Random,Strong,10,No known pattern
+S_0655,819453,Random,Strong,10,No known pattern
+S_0182,6508,Random,Strong,10,No known pattern
+S_0181,0451,Random,Strong,10,No known pattern
+C4_0280,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0906,112233,Doublets,Weak,70,Double pairs
+S_0066,8417,Random,Strong,10,No known pattern
+C6_0863,112233,Doublets,Weak,70,Double pairs
+S_0374,6897,Random,Strong,10,No known pattern
+C4_0207,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0561,123456,Sequential,Weak,90,Straight sequences
+C4_0296,1313,Alternating,Weak,73,Alternating digits
+C6_0718,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0601,111111,Repeated Digits,Weak,95,All digits same
+C6_0535,654321,Sequential,Weak,90,Straight sequences
+C4_0377,5566,Doublets,Weak,70,Double pairs
+S_0690,075843,Random,Strong,10,No known pattern
+S_0748,756432,Random,Strong,10,No known pattern
+S_0525,867201,Random,Strong,10,No known pattern
+S_0078,3604,Random,Strong,10,No known pattern
+C4_0335,2323,Alternating,Weak,73,Alternating digits
+S_0950,521903,Random,Strong,10,No known pattern
+C4_0049,3456,Sequential,Weak,90,Straight sequences
+S_0478,9346,Random,Strong,10,No known pattern
+C6_0814,121212,Alternating,Weak,73,Alternating digits
+S_0819,726539,Random,Strong,10,No known pattern
+C6_0511,654321,Sequential,Weak,90,Straight sequences
+S_0153,2360,Random,Strong,10,No known pattern
+C6_0714,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0176,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0426,4520,Random,Strong,10,No known pattern
+C6_0784,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0274,5306,Random,Strong,10,No known pattern
+S_0980,476328,Random,Strong,10,No known pattern
+C4_0078,2222,Repeated Digits,Weak,95,All digits same
+S_0120,1492,Random,Strong,10,No known pattern
+C6_0977,202020,Special/Other,Weak,65,Special dates
+S_0879,903178,Random,Strong,10,No known pattern
+S_0341,9810,Random,Strong,10,No known pattern
+C6_0631,111111,Repeated Digits,Weak,95,All digits same
+C6_0665,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0534,641295,Random,Strong,10,No known pattern
+S_0609,309154,Random,Strong,10,No known pattern
+C6_0640,999999,Repeated Digits,Weak,95,All digits same
+C6_0721,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0425,7788,Doublets,Weak,70,Double pairs
+C6_0925,112233,Doublets,Weak,70,Double pairs
+C6_0626,999999,Repeated Digits,Weak,95,All digits same
+S_0786,045697,Random,Strong,10,No known pattern
+S_0512,416758,Random,Strong,10,No known pattern
+C4_0420,1122,Doublets,Weak,70,Double pairs
+S_0705,951804,Random,Strong,10,No known pattern
+C6_0855,121212,Alternating,Weak,73,Alternating digits
+C6_0882,112233,Doublets,Weak,70,Double pairs
+S_0213,0836,Random,Strong,10,No known pattern
+S_0154,0291,Random,Strong,10,No known pattern
+C4_0465,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0102,9999,Repeated Digits,Weak,95,All digits same
+S_0112,7635,Random,Strong,10,No known pattern
+S_0805,028316,Random,Strong,10,No known pattern
+C4_0012,4321,Sequential,Weak,90,Straight sequences
+C6_0649,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0145,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0774,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0257,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0565,249781,Random,Strong,10,No known pattern
+C4_0361,5566,Doublets,Weak,70,Double pairs
+S_0616,703984,Random,Strong,10,No known pattern
+S_0205,4829,Random,Strong,10,No known pattern
+S_0685,580239,Random,Strong,10,No known pattern
+C4_0162,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0620,111111,Repeated Digits,Weak,95,All digits same
+C6_0671,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0512,123456,Sequential,Weak,90,Straight sequences
+S_0562,540123,Random,Strong,10,No known pattern
+C4_0461,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0530,237058,Random,Strong,10,No known pattern
+C4_0218,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0795,315982,Random,Strong,10,No known pattern
+S_0544,083571,Random,Strong,10,No known pattern
+S_0102,1468,Random,Strong,10,No known pattern
+C6_0679,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0839,121212,Alternating,Weak,73,Alternating digits
+S_0250,6798,Random,Strong,10,No known pattern
+C6_0869,445566,Doublets,Weak,70,Double pairs
+C4_0043,3456,Sequential,Weak,90,Straight sequences
+C4_0386,5566,Doublets,Weak,70,Double pairs
+C4_0255,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0639,672408,Random,Strong,10,No known pattern
+S_0436,8063,Random,Strong,10,No known pattern
+C6_1001,151515,Special/Other,Weak,65,Special dates
+C4_0187,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0021,4673,Random,Strong,10,No known pattern
+S_0918,529468,Random,Strong,10,No known pattern
+S_0486,9841,Random,Strong,10,No known pattern
+C4_0083,0000,Repeated Digits,Weak,95,All digits same
+C6_0682,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0580,143628,Random,Strong,10,No known pattern
+C4_0201,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0349,1212,Alternating,Weak,73,Alternating digits
+C4_0108,0000,Repeated Digits,Weak,95,All digits same
+C4_0454,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0536,810763,Random,Strong,10,No known pattern
+S_0592,184709,Random,Strong,10,No known pattern
+C6_0635,000000,Repeated Digits,Weak,95,All digits same
+S_0781,431675,Random,Strong,10,No known pattern
+S_0825,106423,Random,Strong,10,No known pattern
+S_0623,417892,Random,Strong,10,No known pattern
+S_0651,512604,Random,Strong,10,No known pattern
+S_0823,459276,Random,Strong,10,No known pattern
+S_0276,0518,Random,Strong,10,No known pattern
+S_0515,973102,Random,Strong,10,No known pattern
+C6_0744,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0240,5736,Random,Strong,10,No known pattern
+S_0430,8243,Random,Strong,10,No known pattern
+S_0391,7205,Random,Strong,10,No known pattern
+S_0692,918403,Random,Strong,10,No known pattern
+C4_0183,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0420,1829,Random,Strong,10,No known pattern
+C6_0807,343434,Alternating,Weak,73,Alternating digits
+C4_0248,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0513,123456,Sequential,Weak,90,Straight sequences
+C4_0384,5566,Doublets,Weak,70,Double pairs
+S_0625,902814,Random,Strong,10,No known pattern
+S_0349,0487,Random,Strong,10,No known pattern
+C4_0125,1111,Repeated Digits,Weak,95,All digits same
+C4_0185,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0886,952604,Random,Strong,10,No known pattern
+C4_0301,1313,Alternating,Weak,73,Alternating digits
+S_0718,590132,Random,Strong,10,No known pattern
+C4_0169,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0945,091632,Random,Strong,10,No known pattern
+S_0914,104279,Random,Strong,10,No known pattern
+C6_0916,112233,Doublets,Weak,70,Double pairs
+S_0877,793584,Random,Strong,10,No known pattern
+C6_0576,111111,Repeated Digits,Weak,95,All digits same
+S_0865,471506,Random,Strong,10,No known pattern
+S_0398,8017,Random,Strong,10,No known pattern
+S_0618,307195,Random,Strong,10,No known pattern
+S_0709,069524,Random,Strong,10,No known pattern
+S_0201,7820,Random,Strong,10,No known pattern
+C4_0393,1122,Doublets,Weak,70,Double pairs
+S_0836,123048,Random,Strong,10,No known pattern
+C4_0066,4321,Sequential,Weak,90,Straight sequences
+C4_0138,1111,Repeated Digits,Weak,95,All digits same
+C6_0815,121212,Alternating,Weak,73,Alternating digits
+C4_0339,1313,Alternating,Weak,73,Alternating digits
+C4_0470,2020,Special/Other,Weak,65,Famous dates or symbols
+C4_0371,7788,Doublets,Weak,70,Double pairs
+S_0998,129365,Random,Strong,10,No known pattern
+S_0765,952486,Random,Strong,10,No known pattern
+C6_0832,121212,Alternating,Weak,73,Alternating digits
+S_0615,932476,Random,Strong,10,No known pattern
+S_0541,345082,Random,Strong,10,No known pattern
+C6_0982,131313,Special/Other,Weak,65,Special dates
+S_0604,927158,Random,Strong,10,No known pattern
+C4_0235,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0640,065237,Random,Strong,10,No known pattern
+C6_0648,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0715,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0068,8207,Random,Strong,10,No known pattern
+C6_0680,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0061,4321,Sequential,Weak,90,Straight sequences
+C4_0489,2020,Special/Other,Weak,65,Famous dates or symbols
+S_0309,0516,Random,Strong,10,No known pattern
+C6_0829,121212,Alternating,Weak,73,Alternating digits
+S_0984,139865,Random,Strong,10,No known pattern
+C4_0130,2222,Repeated Digits,Weak,95,All digits same
+S_0121,9613,Random,Strong,10,No known pattern
+C6_0750,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0817,121212,Alternating,Weak,73,Alternating digits
+C6_0554,654321,Sequential,Weak,90,Straight sequences
+S_0966,205647,Random,Strong,10,No known pattern
+S_0892,397654,Random,Strong,10,No known pattern
+S_0467,2961,Random,Strong,10,No known pattern
+C4_0304,2323,Alternating,Weak,73,Alternating digits
+C6_0598,999999,Repeated Digits,Weak,95,All digits same
+C4_0062,3456,Sequential,Weak,90,Straight sequences
+C4_0450,1004,Special/Other,Weak,65,Famous dates or symbols
+C4_0247,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0115,2222,Repeated Digits,Weak,95,All digits same
+S_0907,081459,Random,Strong,10,No known pattern
+C4_0385,5566,Doublets,Weak,70,Double pairs
+C6_0868,445566,Doublets,Weak,70,Double pairs
+C4_0476,2020,Special/Other,Weak,65,Famous dates or symbols
+C6_0831,121212,Alternating,Weak,73,Alternating digits
+S_0350,9783,Random,Strong,10,No known pattern
+S_0662,460529,Random,Strong,10,No known pattern
+C6_0549,654321,Sequential,Weak,90,Straight sequences
+C6_0606,000000,Repeated Digits,Weak,95,All digits same
+S_0036,9807,Random,Strong,10,No known pattern
+S_0119,7426,Random,Strong,10,No known pattern
+S_0131,5396,Random,Strong,10,No known pattern
+C4_0348,1313,Alternating,Weak,73,Alternating digits
+C4_0409,7788,Doublets,Weak,70,Double pairs
+S_0080,0138,Random,Strong,10,No known pattern
+C4_0202,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0198,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0717,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0026,3197,Random,Strong,10,No known pattern
+C4_0491,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0328,1313,Alternating,Weak,73,Alternating digits
+S_0415,6719,Random,Strong,10,No known pattern
+C6_0613,999999,Repeated Digits,Weak,95,All digits same
+S_0497,2150,Random,Strong,10,No known pattern
+C4_0087,1111,Repeated Digits,Weak,95,All digits same
+C4_0315,1212,Alternating,Weak,73,Alternating digits
+C6_0608,999999,Repeated Digits,Weak,95,All digits same
+S_0179,7309,Random,Strong,10,No known pattern
+S_0211,7498,Random,Strong,10,No known pattern
+C6_0930,445566,Doublets,Weak,70,Double pairs
+C4_0413,5566,Doublets,Weak,70,Double pairs
+S_0064,6473,Random,Strong,10,No known pattern
+C4_0094,9999,Repeated Digits,Weak,95,All digits same
+S_0790,941782,Random,Strong,10,No known pattern
+C4_0359,1212,Alternating,Weak,73,Alternating digits
+S_0925,382149,Random,Strong,10,No known pattern
+C6_0515,123456,Sequential,Weak,90,Straight sequences
+C4_0376,1122,Doublets,Weak,70,Double pairs
+S_0253,9612,Random,Strong,10,No known pattern
+C4_0167,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0628,245683,Random,Strong,10,No known pattern
+S_0116,7843,Random,Strong,10,No known pattern
+C6_0585,111111,Repeated Digits,Weak,95,All digits same
+C6_0981,151515,Special/Other,Weak,65,Special dates
+S_0268,6594,Random,Strong,10,No known pattern
+S_0031,2586,Random,Strong,10,No known pattern
+S_0722,475160,Random,Strong,10,No known pattern
+S_0708,530148,Random,Strong,10,No known pattern
+C4_0225,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0096,1111,Repeated Digits,Weak,95,All digits same
+C6_0644,111111,Repeated Digits,Weak,95,All digits same
+C6_0838,343434,Alternating,Weak,73,Alternating digits
+S_0759,973685,Random,Strong,10,No known pattern
+C6_0557,123456,Sequential,Weak,90,Straight sequences
+C4_0492,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0249,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0480,2350,Random,Strong,10,No known pattern
+S_0384,5167,Random,Strong,10,No known pattern
+S_0863,591860,Random,Strong,10,No known pattern
+C4_0285,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0781,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0277,4175,Random,Strong,10,No known pattern
+C4_0293,1313,Alternating,Weak,73,Alternating digits
+C6_0683,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0270,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0595,987536,Random,Strong,10,No known pattern
+C4_0405,5566,Doublets,Weak,70,Double pairs
+C6_0967,202020,Special/Other,Weak,65,Special dates
+S_0946,320971,Random,Strong,10,No known pattern
+S_0343,6420,Random,Strong,10,No known pattern
+S_0992,417629,Random,Strong,10,No known pattern
+S_0409,9031,Random,Strong,10,No known pattern
+S_0489,0386,Random,Strong,10,No known pattern
+C4_0313,2323,Alternating,Weak,73,Alternating digits
+C4_0436,2020,Special/Other,Weak,65,Famous dates or symbols
+C4_0111,2222,Repeated Digits,Weak,95,All digits same
+S_0180,8413,Random,Strong,10,No known pattern
+C4_0447,2020,Special/Other,Weak,65,Famous dates or symbols
+C4_0140,2222,Repeated Digits,Weak,95,All digits same
+S_0888,842397,Random,Strong,10,No known pattern
+S_0143,1524,Random,Strong,10,No known pattern
+S_0187,8247,Random,Strong,10,No known pattern
+C4_0044,4321,Sequential,Weak,90,Straight sequences
+S_0932,549307,Random,Strong,10,No known pattern
+C6_0695,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0320,2819,Random,Strong,10,No known pattern
+S_0014,3810,Random,Strong,10,No known pattern
+S_0144,6430,Random,Strong,10,No known pattern
+S_0390,2403,Random,Strong,10,No known pattern
+C6_0826,121212,Alternating,Weak,73,Alternating digits
+C4_0299,1313,Alternating,Weak,73,Alternating digits
+C4_0379,1122,Doublets,Weak,70,Double pairs
+C6_0524,123456,Sequential,Weak,90,Straight sequences
+S_0784,530267,Random,Strong,10,No known pattern
+C4_0455,1004,Special/Other,Weak,65,Famous dates or symbols
+C4_0001,1234,Sequential,Weak,90,Straight sequences
+C4_0039,3456,Sequential,Weak,90,Straight sequences
+C4_0401,7788,Doublets,Weak,70,Double pairs
+C6_0522,654321,Sequential,Weak,90,Straight sequences
+S_0219,2930,Random,Strong,10,No known pattern
+S_0896,714960,Random,Strong,10,No known pattern
+C4_0209,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0865,445566,Doublets,Weak,70,Double pairs
+S_0280,2946,Random,Strong,10,No known pattern
+S_0547,913857,Random,Strong,10,No known pattern
+S_0663,328907,Random,Strong,10,No known pattern
+S_0753,794506,Random,Strong,10,No known pattern
+S_0954,150976,Random,Strong,10,No known pattern
+S_0292,0345,Random,Strong,10,No known pattern
+S_0694,056814,Random,Strong,10,No known pattern
+C4_0333,1313,Alternating,Weak,73,Alternating digits
+S_0770,746910,Random,Strong,10,No known pattern
+C6_0656,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0367,5190,Random,Strong,10,No known pattern
+C6_0830,343434,Alternating,Weak,73,Alternating digits
+S_0257,6158,Random,Strong,10,No known pattern
+S_0188,4570,Random,Strong,10,No known pattern
+S_0659,623784,Random,Strong,10,No known pattern
+S_0003,7326,Random,Strong,10,No known pattern
+S_0411,4205,Random,Strong,10,No known pattern
+C4_0180,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0458,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0063,1674,Random,Strong,10,No known pattern
+S_0551,641537,Random,Strong,10,No known pattern
+S_0560,176058,Random,Strong,10,No known pattern
+C4_0155,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0714,972864,Random,Strong,10,No known pattern
+S_0400,6540,Random,Strong,10,No known pattern
+C6_0919,112233,Doublets,Weak,70,Double pairs
+C4_0004,4321,Sequential,Weak,90,Straight sequences
+C6_0780,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0291,0125,Random,Strong,10,No known pattern
+S_0045,4376,Random,Strong,10,No known pattern
+C4_0449,2020,Special/Other,Weak,65,Famous dates or symbols
+S_0132,2065,Random,Strong,10,No known pattern
+C6_0729,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0344,2323,Alternating,Weak,73,Alternating digits
+C6_0670,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0867,312879,Random,Strong,10,No known pattern
+S_0869,928163,Random,Strong,10,No known pattern
+S_0645,082694,Random,Strong,10,No known pattern
+C4_0267,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0165,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0659,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0001,6781,Random,Strong,10,No known pattern
+S_0689,578946,Random,Strong,10,No known pattern
+C6_0856,121212,Alternating,Weak,73,Alternating digits
+S_0666,027496,Random,Strong,10,No known pattern
+S_0827,523168,Random,Strong,10,No known pattern
+C4_0322,1212,Alternating,Weak,73,Alternating digits
+C4_0396,5566,Doublets,Weak,70,Double pairs
+C6_0948,202020,Special/Other,Weak,65,Special dates
+C6_0552,654321,Sequential,Weak,90,Straight sequences
+C4_0325,1313,Alternating,Weak,73,Alternating digits
+S_0832,852319,Random,Strong,10,No known pattern
+S_0228,2106,Random,Strong,10,No known pattern
+C6_0669,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0568,248169,Random,Strong,10,No known pattern
+C6_0914,445566,Doublets,Weak,70,Double pairs
+S_0204,2301,Random,Strong,10,No known pattern
+S_0894,906571,Random,Strong,10,No known pattern
+S_0861,720189,Random,Strong,10,No known pattern
+S_0058,7450,Random,Strong,10,No known pattern
+C6_0998,151515,Special/Other,Weak,65,Special dates
+S_0441,8416,Random,Strong,10,No known pattern
+S_0495,9532,Random,Strong,10,No known pattern
+S_0263,5821,Random,Strong,10,No known pattern
+C4_0428,5566,Doublets,Weak,70,Double pairs
+S_0466,8429,Random,Strong,10,No known pattern
+S_0842,285364,Random,Strong,10,No known pattern
+C6_0874,112233,Doublets,Weak,70,Double pairs
+S_0290,8940,Random,Strong,10,No known pattern
+C6_0533,123456,Sequential,Weak,90,Straight sequences
+S_0428,8216,Random,Strong,10,No known pattern
+S_0526,810436,Random,Strong,10,No known pattern
+C6_0903,445566,Doublets,Weak,70,Double pairs
+S_0646,758163,Random,Strong,10,No known pattern
+S_0254,0589,Random,Strong,10,No known pattern
+C6_0938,131313,Special/Other,Weak,65,Special dates
+C6_0599,000000,Repeated Digits,Weak,95,All digits same
+S_0110,4938,Random,Strong,10,No known pattern
+C4_0494,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0935,202020,Special/Other,Weak,65,Special dates
+S_0582,135806,Random,Strong,10,No known pattern
+S_0675,486721,Random,Strong,10,No known pattern
+S_0885,473061,Random,Strong,10,No known pattern
+S_0994,387625,Random,Strong,10,No known pattern
+S_0752,658241,Random,Strong,10,No known pattern
+S_0725,278905,Random,Strong,10,No known pattern
+S_0878,795480,Random,Strong,10,No known pattern
+S_0556,753206,Random,Strong,10,No known pattern
+C6_0791,343434,Alternating,Weak,73,Alternating digits
+S_0803,319245,Random,Strong,10,No known pattern
+S_0717,817035,Random,Strong,10,No known pattern
+C4_0009,1234,Sequential,Weak,90,Straight sequences
+S_0696,596381,Random,Strong,10,No known pattern
+S_0459,9067,Random,Strong,10,No known pattern
+C4_0056,3456,Sequential,Weak,90,Straight sequences
+C6_0975,202020,Special/Other,Weak,65,Special dates
+S_0134,0578,Random,Strong,10,No known pattern
+S_0055,9360,Random,Strong,10,No known pattern
+S_0440,7428,Random,Strong,10,No known pattern
+S_0682,417852,Random,Strong,10,No known pattern
+C6_0650,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0835,121212,Alternating,Weak,73,Alternating digits
+S_0864,964705,Random,Strong,10,No known pattern
+S_0557,712805,Random,Strong,10,No known pattern
+C6_0604,111111,Repeated Digits,Weak,95,All digits same
+C4_0068,1234,Sequential,Weak,90,Straight sequences
+C4_0326,1313,Alternating,Weak,73,Alternating digits
+S_0956,369187,Random,Strong,10,No known pattern
+C4_0266,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0012,2691,Random,Strong,10,No known pattern
+C6_0734,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0623,000000,Repeated Digits,Weak,95,All digits same
+C6_0800,343434,Alternating,Weak,73,Alternating digits
+C6_0711,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0629,111111,Repeated Digits,Weak,95,All digits same
+S_0893,182793,Random,Strong,10,No known pattern
+S_0775,951486,Random,Strong,10,No known pattern
+C4_0363,5566,Doublets,Weak,70,Double pairs
+C6_0893,445566,Doublets,Weak,70,Double pairs
+S_0813,476059,Random,Strong,10,No known pattern
+C4_0252,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0523,654321,Sequential,Weak,90,Straight sequences
+C4_0244,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0259,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0402,5566,Doublets,Weak,70,Double pairs
+S_0638,280597,Random,Strong,10,No known pattern
+S_0307,2381,Random,Strong,10,No known pattern
+C4_0473,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0283,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0860,112233,Doublets,Weak,70,Double pairs
+C4_0177,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0568,123456,Sequential,Weak,90,Straight sequences
+C6_0704,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0002,2345,Sequential,Weak,90,Straight sequences
+C6_0927,112233,Doublets,Weak,70,Double pairs
+C6_0594,999999,Repeated Digits,Weak,95,All digits same
+S_0085,3280,Random,Strong,10,No known pattern
+C6_0878,112233,Doublets,Weak,70,Double pairs
+C4_0137,1111,Repeated Digits,Weak,95,All digits same
+C4_0035,2345,Sequential,Weak,90,Straight sequences
+C4_0143,2222,Repeated Digits,Weak,95,All digits same
+C6_0685,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0183,0364,Random,Strong,10,No known pattern
+S_0445,9536,Random,Strong,10,No known pattern
+C4_0142,2222,Repeated Digits,Weak,95,All digits same
+S_0246,9683,Random,Strong,10,No known pattern
+S_0357,2914,Random,Strong,10,No known pattern
+S_0137,8291,Random,Strong,10,No known pattern
+C6_0550,654321,Sequential,Weak,90,Straight sequences
+C4_0007,4321,Sequential,Weak,90,Straight sequences
+S_0178,2659,Random,Strong,10,No known pattern
+C6_0778,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0873,112233,Doublets,Weak,70,Double pairs
+C4_0253,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0354,5278,Random,Strong,10,No known pattern
+C4_0174,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0667,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0362,5746,Random,Strong,10,No known pattern
+C6_0771,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0130,1720,Random,Strong,10,No known pattern
+S_0128,9302,Random,Strong,10,No known pattern
+C4_0453,1515,Special/Other,Weak,65,Famous dates or symbols
+S_0164,1498,Random,Strong,10,No known pattern
+S_0860,318079,Random,Strong,10,No known pattern
+C6_0741,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0834,121212,Alternating,Weak,73,Alternating digits
+S_0545,736528,Random,Strong,10,No known pattern
+C4_0179,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0740,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0304,8967,Random,Strong,10,No known pattern
+C4_0306,1212,Alternating,Weak,73,Alternating digits
+S_0593,402816,Random,Strong,10,No known pattern
+S_0539,318507,Random,Strong,10,No known pattern
+C6_0514,123456,Sequential,Weak,90,Straight sequences
+C6_0700,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0710,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0175,9682,Random,Strong,10,No known pattern
+C4_0438,1004,Special/Other,Weak,65,Famous dates or symbols
+C4_0288,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0609,111111,Repeated Digits,Weak,95,All digits same
+S_0266,0463,Random,Strong,10,No known pattern
+C4_0488,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0876,627543,Random,Strong,10,No known pattern
+S_0482,1258,Random,Strong,10,No known pattern
+S_0658,769580,Random,Strong,10,No known pattern
+C6_0517,123456,Sequential,Weak,90,Straight sequences
+S_0537,873501,Random,Strong,10,No known pattern
+S_0237,1046,Random,Strong,10,No known pattern
+S_0081,1294,Random,Strong,10,No known pattern
+S_0141,1289,Random,Strong,10,No known pattern
+C6_0610,000000,Repeated Digits,Weak,95,All digits same
+S_0294,1432,Random,Strong,10,No known pattern
+S_0046,6357,Random,Strong,10,No known pattern
+C6_0864,445566,Doublets,Weak,70,Double pairs
+S_0404,7920,Random,Strong,10,No known pattern
+S_0299,4932,Random,Strong,10,No known pattern
+S_0053,4769,Random,Strong,10,No known pattern
+S_0785,327065,Random,Strong,10,No known pattern
+C4_0400,5566,Doublets,Weak,70,Double pairs
+C6_0660,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0439,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0346,2063,Random,Strong,10,No known pattern
+C6_0658,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0289,1212,Alternating,Weak,73,Alternating digits
+C6_0789,343434,Alternating,Weak,73,Alternating digits
+S_0108,5682,Random,Strong,10,No known pattern
+S_0372,7028,Random,Strong,10,No known pattern
+C4_0116,2222,Repeated Digits,Weak,95,All digits same
+S_0412,9048,Random,Strong,10,No known pattern
+C4_0323,2323,Alternating,Weak,73,Alternating digits
+S_0833,875064,Random,Strong,10,No known pattern
+S_0214,5172,Random,Strong,10,No known pattern
+C4_0341,1313,Alternating,Weak,73,Alternating digits
+S_0902,189742,Random,Strong,10,No known pattern
+C6_0956,202020,Special/Other,Weak,65,Special dates
+S_0009,5864,Random,Strong,10,No known pattern
+C4_0407,1122,Doublets,Weak,70,Double pairs
+C4_0158,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0883,112233,Doublets,Weak,70,Double pairs
+C4_0374,5566,Doublets,Weak,70,Double pairs
+S_0949,483675,Random,Strong,10,No known pattern
+C6_0673,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0716,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0479,1515,Special/Other,Weak,65,Famous dates or symbols
+S_0940,127956,Random,Strong,10,No known pattern
+S_0673,358261,Random,Strong,10,No known pattern
+C6_0921,445566,Doublets,Weak,70,Double pairs
+C4_0121,1111,Repeated Digits,Weak,95,All digits same
+S_0073,6087,Random,Strong,10,No known pattern
+C6_0541,123456,Sequential,Weak,90,Straight sequences
+S_0186,6482,Random,Strong,10,No known pattern
+C6_0759,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0387,3567,Random,Strong,10,No known pattern
+C4_0085,0000,Repeated Digits,Weak,95,All digits same
+S_0965,048759,Random,Strong,10,No known pattern
+C6_0908,445566,Doublets,Weak,70,Double pairs
+C4_0168,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0233,2534,Random,Strong,10,No known pattern
+C4_0186,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0500,0541,Random,Strong,10,No known pattern
+S_0379,2574,Random,Strong,10,No known pattern
+C4_0030,3456,Sequential,Weak,90,Straight sequences
+C6_0739,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0520,654321,Sequential,Weak,90,Straight sequences
+C4_0482,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0113,1111,Repeated Digits,Weak,95,All digits same
+S_0577,812794,Random,Strong,10,No known pattern
+S_0403,3540,Random,Strong,10,No known pattern
+S_0817,871436,Random,Strong,10,No known pattern
+S_0974,971420,Random,Strong,10,No known pattern
+C6_0581,999999,Repeated Digits,Weak,95,All digits same
+C4_0466,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0836,121212,Alternating,Weak,73,Alternating digits
+C6_0565,123456,Sequential,Weak,90,Straight sequences
+C6_0775,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0114,0000,Repeated Digits,Weak,95,All digits same
+C6_0858,343434,Alternating,Weak,73,Alternating digits
+S_0107,8159,Random,Strong,10,No known pattern
+C4_0119,1111,Repeated Digits,Weak,95,All digits same
+C4_0307,1212,Alternating,Weak,73,Alternating digits
+S_0507,832751,Random,Strong,10,No known pattern
+S_0169,1975,Random,Strong,10,No known pattern
+C4_0010,3456,Sequential,Weak,90,Straight sequences
+S_0314,0629,Random,Strong,10,No known pattern
+C4_0023,2345,Sequential,Weak,90,Straight sequences
+C6_0877,112233,Doublets,Weak,70,Double pairs
+S_0621,962374,Random,Strong,10,No known pattern
+C4_0239,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0570,023176,Random,Strong,10,No known pattern
+C6_0688,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0163,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0750,649153,Random,Strong,10,No known pattern
+S_0884,410236,Random,Strong,10,No known pattern
+C6_0913,112233,Doublets,Weak,70,Double pairs
+C4_0432,7788,Doublets,Weak,70,Double pairs
+S_0573,814625,Random,Strong,10,No known pattern
+S_0622,385124,Random,Strong,10,No known pattern
+C4_0024,4321,Sequential,Weak,90,Straight sequences
+C6_0642,000000,Repeated Digits,Weak,95,All digits same
+C4_0452,2020,Special/Other,Weak,65,Famous dates or symbols
+S_0801,832061,Random,Strong,10,No known pattern
+S_0558,473196,Random,Strong,10,No known pattern
+S_0027,0962,Random,Strong,10,No known pattern
+S_0822,380741,Random,Strong,10,No known pattern
+S_0028,9430,Random,Strong,10,No known pattern
+C6_0621,000000,Repeated Digits,Weak,95,All digits same
+C4_0414,1122,Doublets,Weak,70,Double pairs
+C6_0540,654321,Sequential,Weak,90,Straight sequences
+C6_0506,654321,Sequential,Weak,90,Straight sequences
+C4_0110,1111,Repeated Digits,Weak,95,All digits same
+S_0105,2613,Random,Strong,10,No known pattern
+C4_0370,7788,Doublets,Weak,70,Double pairs
+S_0597,697824,Random,Strong,10,No known pattern
+C4_0421,7788,Doublets,Weak,70,Double pairs
+S_0371,7380,Random,Strong,10,No known pattern
+C4_0500,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0310,1313,Alternating,Weak,73,Alternating digits
+C6_0639,999999,Repeated Digits,Weak,95,All digits same
+C6_0745,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0448,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0915,392756,Random,Strong,10,No known pattern
+S_0353,5086,Random,Strong,10,No known pattern
+C6_0696,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0378,7788,Doublets,Weak,70,Double pairs
+C4_0173,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0870,112233,Doublets,Weak,70,Double pairs
+S_0744,485162,Random,Strong,10,No known pattern
+C6_0769,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0244,6230,Random,Strong,10,No known pattern
+C4_0295,1313,Alternating,Weak,73,Alternating digits
+S_0627,920743,Random,Strong,10,No known pattern
+S_0845,289314,Random,Strong,10,No known pattern
+C6_0600,999999,Repeated Digits,Weak,95,All digits same
+S_0569,821703,Random,Strong,10,No known pattern
+S_0264,5241,Random,Strong,10,No known pattern
+C4_0118,9999,Repeated Digits,Weak,95,All digits same
+S_0699,172649,Random,Strong,10,No known pattern
+C4_0124,1111,Repeated Digits,Weak,95,All digits same
+C4_0243,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0572,981056,Random,Strong,10,No known pattern
+S_0044,0429,Random,Strong,10,No known pattern
+C6_0880,112233,Doublets,Weak,70,Double pairs
+S_0910,923654,Random,Strong,10,No known pattern
+C4_0107,0000,Repeated Digits,Weak,95,All digits same
+S_0862,657092,Random,Strong,10,No known pattern
+S_0191,8641,Random,Strong,10,No known pattern
+S_0223,2508,Random,Strong,10,No known pattern
+C6_0796,121212,Alternating,Weak,73,Alternating digits
+C4_0251,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0847,936547,Random,Strong,10,No known pattern
+C4_0485,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0242,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0793,343434,Alternating,Weak,73,Alternating digits
+C4_0128,9999,Repeated Digits,Weak,95,All digits same
+S_0818,690571,Random,Strong,10,No known pattern
+S_0727,482591,Random,Strong,10,No known pattern
+C6_0742,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0399,5566,Doublets,Weak,70,Double pairs
+S_0173,7460,Random,Strong,10,No known pattern
+C6_0534,123456,Sequential,Weak,90,Straight sequences
+C4_0308,1212,Alternating,Weak,73,Alternating digits
+S_0437,6304,Random,Strong,10,No known pattern
+S_0310,8142,Random,Strong,10,No known pattern
+C6_0726,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0887,160382,Random,Strong,10,No known pattern
+C6_0677,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0833,121212,Alternating,Weak,73,Alternating digits
+C4_0495,1515,Special/Other,Weak,65,Famous dates or symbols
+S_0461,4795,Random,Strong,10,No known pattern
+S_0740,329701,Random,Strong,10,No known pattern
+S_0874,541906,Random,Strong,10,No known pattern
+C4_0360,2323,Alternating,Weak,73,Alternating digits
+C6_0633,000000,Repeated Digits,Weak,95,All digits same
+S_0225,7835,Random,Strong,10,No known pattern
+S_0614,120596,Random,Strong,10,No known pattern
+C6_0782,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0756,278916,Random,Strong,10,No known pattern
+C6_0852,343434,Alternating,Weak,73,Alternating digits
+C4_0194,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0755,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0923,463081,Random,Strong,10,No known pattern
+S_0145,0954,Random,Strong,10,No known pattern
+C4_0072,4321,Sequential,Weak,90,Straight sequences
+S_0487,3546,Random,Strong,10,No known pattern
+S_0248,1945,Random,Strong,10,No known pattern
+C6_0988,202020,Special/Other,Weak,65,Special dates
+C6_0952,151515,Special/Other,Weak,65,Special dates
+C6_0859,343434,Alternating,Weak,73,Alternating digits
+S_0208,4103,Random,Strong,10,No known pattern
+C4_0166,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0897,112233,Doublets,Weak,70,Double pairs
+S_0018,1584,Random,Strong,10,No known pattern
+C4_0311,1212,Alternating,Weak,73,Alternating digits
+S_0368,2850,Random,Strong,10,No known pattern
+S_0285,1498,Random,Strong,10,No known pattern
+C4_0048,3456,Sequential,Weak,90,Straight sequences
+S_0382,0829,Random,Strong,10,No known pattern
+S_0324,8073,Random,Strong,10,No known pattern
+C4_0234,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0968,151515,Special/Other,Weak,65,Special dates
+C4_0033,1234,Sequential,Weak,90,Straight sequences
+S_0075,6452,Random,Strong,10,No known pattern
+S_0172,9802,Random,Strong,10,No known pattern
+S_0222,3942,Random,Strong,10,No known pattern
+S_0754,583096,Random,Strong,10,No known pattern
+C4_0336,1313,Alternating,Weak,73,Alternating digits
+S_0161,1387,Random,Strong,10,No known pattern
+S_0474,7456,Random,Strong,10,No known pattern
+S_0951,036894,Random,Strong,10,No known pattern
+S_0713,561902,Random,Strong,10,No known pattern
+C6_0798,343434,Alternating,Weak,73,Alternating digits
+C6_0808,121212,Alternating,Weak,73,Alternating digits
+S_0552,394207,Random,Strong,10,No known pattern
+S_0584,864732,Random,Strong,10,No known pattern
+C6_0790,343434,Alternating,Weak,73,Alternating digits
+S_0256,2768,Random,Strong,10,No known pattern
+C4_0240,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0630,000000,Repeated Digits,Weak,95,All digits same
+S_0190,9718,Random,Strong,10,No known pattern
+S_0376,9346,Random,Strong,10,No known pattern
+C4_0367,5566,Doublets,Weak,70,Double pairs
+C6_0872,112233,Doublets,Weak,70,Double pairs
+S_0697,037891,Random,Strong,10,No known pattern
+C4_0410,5566,Doublets,Weak,70,Double pairs
+S_0849,820975,Random,Strong,10,No known pattern
+S_0710,720145,Random,Strong,10,No known pattern
+S_0859,021695,Random,Strong,10,No known pattern
+S_0667,057864,Random,Strong,10,No known pattern
+S_0321,6501,Random,Strong,10,No known pattern
+S_0101,0453,Random,Strong,10,No known pattern
+C4_0309,1313,Alternating,Weak,73,Alternating digits
+S_0606,038597,Random,Strong,10,No known pattern
+S_0844,438759,Random,Strong,10,No known pattern
+C4_0256,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0517,654738,Random,Strong,10,No known pattern
+S_0316,8091,Random,Strong,10,No known pattern
+S_0934,358247,Random,Strong,10,No known pattern
+C6_0602,000000,Repeated Digits,Weak,95,All digits same
+C4_0122,1111,Repeated Digits,Weak,95,All digits same
+S_0340,0769,Random,Strong,10,No known pattern
+S_0098,4026,Random,Strong,10,No known pattern
+C4_0459,2020,Special/Other,Weak,65,Famous dates or symbols
+S_0538,397401,Random,Strong,10,No known pattern
+C4_0106,2222,Repeated Digits,Weak,95,All digits same
+S_0269,6173,Random,Strong,10,No known pattern
+S_0514,493816,Random,Strong,10,No known pattern
+S_0810,123674,Random,Strong,10,No known pattern
+C6_0837,343434,Alternating,Weak,73,Alternating digits
+C6_0701,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0563,731082,Random,Strong,10,No known pattern
+C6_0758,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0042,9308,Random,Strong,10,No known pattern
+S_0742,437908,Random,Strong,10,No known pattern
+C6_0889,112233,Doublets,Weak,70,Double pairs
+S_0774,614083,Random,Strong,10,No known pattern
+C4_0312,1313,Alternating,Weak,73,Alternating digits
+C4_0129,0000,Repeated Digits,Weak,95,All digits same
+S_0644,732941,Random,Strong,10,No known pattern
+S_0816,396145,Random,Strong,10,No known pattern
+S_0607,789321,Random,Strong,10,No known pattern
+C6_0985,151515,Special/Other,Weak,65,Special dates
+S_0520,741835,Random,Strong,10,No known pattern
+S_0221,8762,Random,Strong,10,No known pattern
+C4_0036,4321,Sequential,Weak,90,Straight sequences
+S_0830,473219,Random,Strong,10,No known pattern
+C4_0112,1111,Repeated Digits,Weak,95,All digits same
+S_0396,1402,Random,Strong,10,No known pattern
+C4_0089,0000,Repeated Digits,Weak,95,All digits same
+S_0787,317652,Random,Strong,10,No known pattern
+S_0334,3514,Random,Strong,10,No known pattern
+S_0025,0295,Random,Strong,10,No known pattern
+C6_0820,121212,Alternating,Weak,73,Alternating digits
+S_0826,306217,Random,Strong,10,No known pattern
+S_0167,0629,Random,Strong,10,No known pattern
+S_0229,1703,Random,Strong,10,No known pattern
+C6_0547,654321,Sequential,Weak,90,Straight sequences
+C4_0490,1004,Special/Other,Weak,65,Famous dates or symbols
+C4_0088,0000,Repeated Digits,Weak,95,All digits same
+S_0418,2364,Random,Strong,10,No known pattern
+S_0783,506743,Random,Strong,10,No known pattern
+S_0433,9237,Random,Strong,10,No known pattern
+C4_0343,2323,Alternating,Weak,73,Alternating digits
+S_0872,304869,Random,Strong,10,No known pattern
+C4_0086,9999,Repeated Digits,Weak,95,All digits same
+S_0499,3917,Random,Strong,10,No known pattern
+S_0023,4678,Random,Strong,10,No known pattern
+C6_0862,112233,Doublets,Weak,70,Double pairs
+S_0479,6350,Random,Strong,10,No known pattern
+S_0155,7625,Random,Strong,10,No known pattern
+C4_0054,3456,Sequential,Weak,90,Straight sequences
+C4_0444,2020,Special/Other,Weak,65,Famous dates or symbols
+C4_0133,0000,Repeated Digits,Weak,95,All digits same
+S_0385,1627,Random,Strong,10,No known pattern
+S_0838,390758,Random,Strong,10,No known pattern
+C6_0904,445566,Doublets,Weak,70,Double pairs
+S_0853,802654,Random,Strong,10,No known pattern
+S_0656,864310,Random,Strong,10,No known pattern
+S_0637,137694,Random,Strong,10,No known pattern
+C6_0854,121212,Alternating,Weak,73,Alternating digits
+S_0916,270614,Random,Strong,10,No known pattern
+S_0352,7986,Random,Strong,10,No known pattern
+C4_0375,7788,Doublets,Weak,70,Double pairs
+S_0460,5807,Random,Strong,10,No known pattern
+C4_0316,1313,Alternating,Weak,73,Alternating digits
+S_0040,4561,Random,Strong,10,No known pattern
+C4_0499,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0633,240756,Random,Strong,10,No known pattern
+C6_0910,445566,Doublets,Weak,70,Double pairs
+C4_0069,3456,Sequential,Weak,90,Straight sequences
+C6_0723,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0737,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0389,1122,Doublets,Weak,70,Double pairs
+S_0661,385164,Random,Strong,10,No known pattern
+S_0373,7835,Random,Strong,10,No known pattern
+S_0142,1879,Random,Strong,10,No known pattern
+C6_0812,343434,Alternating,Weak,73,Alternating digits
+C4_0091,2222,Repeated Digits,Weak,95,All digits same
+S_0870,183527,Random,Strong,10,No known pattern
+C4_0487,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0219,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0873,678940,Random,Strong,10,No known pattern
+C6_0607,000000,Repeated Digits,Weak,95,All digits same
+S_0258,6750,Random,Strong,10,No known pattern
+S_0773,462173,Random,Strong,10,No known pattern
+C6_0992,131313,Special/Other,Weak,65,Special dates
+S_0581,851937,Random,Strong,10,No known pattern
+S_0468,6549,Random,Strong,10,No known pattern
+C6_0562,654321,Sequential,Weak,90,Straight sequences
+S_0846,793508,Random,Strong,10,No known pattern
+S_0490,3192,Random,Strong,10,No known pattern
+S_0249,0261,Random,Strong,10,No known pattern
+C4_0076,0000,Repeated Digits,Weak,95,All digits same
+S_0903,210834,Random,Strong,10,No known pattern
+S_0532,768093,Random,Strong,10,No known pattern
+C4_0132,1111,Repeated Digits,Weak,95,All digits same
+S_0262,1783,Random,Strong,10,No known pattern
+C6_0593,000000,Repeated Digits,Weak,95,All digits same
+C4_0154,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0989,934261,Random,Strong,10,No known pattern
+C4_0387,7788,Doublets,Weak,70,Double pairs
+C4_0268,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0736,790815,Random,Strong,10,No known pattern
+S_0812,740921,Random,Strong,10,No known pattern
+C4_0227,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0753,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0470,4208,Random,Strong,10,No known pattern
+C6_0590,111111,Repeated Digits,Weak,95,All digits same
+C6_0538,123456,Sequential,Weak,90,Straight sequences
+S_0312,0982,Random,Strong,10,No known pattern
+C4_0416,5566,Doublets,Weak,70,Double pairs
+C6_0543,654321,Sequential,Weak,90,Straight sequences
+S_0455,9084,Random,Strong,10,No known pattern
+C4_0011,2345,Sequential,Weak,90,Straight sequences
+S_0323,0379,Random,Strong,10,No known pattern
+S_0328,7504,Random,Strong,10,No known pattern
+C4_0175,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0321,2323,Alternating,Weak,73,Alternating digits
+S_0802,237068,Random,Strong,10,No known pattern
+S_0937,097621,Random,Strong,10,No known pattern
+C6_0960,151515,Special/Other,Weak,65,Special dates
+S_0270,4170,Random,Strong,10,No known pattern
+C6_0762,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0184,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0519,274165,Random,Strong,10,No known pattern
+C6_0866,112233,Doublets,Weak,70,Double pairs
+C4_0262,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0193,3165,Random,Strong,10,No known pattern
+C4_0029,2345,Sequential,Weak,90,Straight sequences
+S_0074,8236,Random,Strong,10,No known pattern
+S_0933,706184,Random,Strong,10,No known pattern
+S_0016,6075,Random,Strong,10,No known pattern
+S_0856,234569,Random,Strong,10,No known pattern
+S_0123,4592,Random,Strong,10,No known pattern
+C4_0161,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0785,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0238,5907,Random,Strong,10,No known pattern
+C6_0668,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0220,0642,Random,Strong,10,No known pattern
+C4_0427,7788,Doublets,Weak,70,Double pairs
+C6_0751,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0342,7304,Random,Strong,10,No known pattern
+S_0617,081936,Random,Strong,10,No known pattern
+S_0815,610935,Random,Strong,10,No known pattern
+C4_0408,5566,Doublets,Weak,70,Double pairs
+C4_0474,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0828,194327,Random,Strong,10,No known pattern
+S_0109,1907,Random,Strong,10,No known pattern
+S_0380,1426,Random,Strong,10,No known pattern
+C6_0766,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0327,1313,Alternating,Weak,73,Alternating digits
+C4_0245,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0447,8469,Random,Strong,10,No known pattern
+S_0968,801275,Random,Strong,10,No known pattern
+S_0195,6940,Random,Strong,10,No known pattern
+C4_0381,7788,Doublets,Weak,70,Double pairs
+C4_0208,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0835,875902,Random,Strong,10,No known pattern
+S_0315,7416,Random,Strong,10,No known pattern
+C6_0728,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0365,5566,Doublets,Weak,70,Double pairs
+S_0278,0937,Random,Strong,10,No known pattern
+C4_0126,0000,Repeated Digits,Weak,95,All digits same
+C4_0390,5566,Doublets,Weak,70,Double pairs
+C6_0959,151515,Special/Other,Weak,65,Special dates
+C4_0017,2345,Sequential,Weak,90,Straight sequences
+S_0326,6349,Random,Strong,10,No known pattern
+C4_0192,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0972,073682,Random,Strong,10,No known pattern
+C4_0149,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0210,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0040,1234,Sequential,Weak,90,Straight sequences
+C6_0578,000000,Repeated Digits,Weak,95,All digits same
+C6_0806,121212,Alternating,Weak,73,Alternating digits
+S_0958,327641,Random,Strong,10,No known pattern
+C4_0345,2323,Alternating,Weak,73,Alternating digits
+S_0136,5861,Random,Strong,10,No known pattern
+S_0603,314062,Random,Strong,10,No known pattern
+S_0057,1349,Random,Strong,10,No known pattern
+S_0652,204915,Random,Strong,10,No known pattern
+S_0452,2340,Random,Strong,10,No known pattern
+C6_0924,112233,Doublets,Weak,70,Double pairs
+C4_0220,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0971,069423,Random,Strong,10,No known pattern
+C6_0894,445566,Doublets,Weak,70,Double pairs
+S_0348,5031,Random,Strong,10,No known pattern
+S_0858,820516,Random,Strong,10,No known pattern
+C6_0713,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0393,6147,Random,Strong,10,No known pattern
+C4_0357,2323,Alternating,Weak,73,Alternating digits
+S_0953,231506,Random,Strong,10,No known pattern
+S_0904,365091,Random,Strong,10,No known pattern
+C6_0991,202020,Special/Other,Weak,65,Special dates
+C4_0330,2323,Alternating,Weak,73,Alternating digits
+S_0665,475628,Random,Strong,10,No known pattern
+S_0402,2647,Random,Strong,10,No known pattern
+C6_0761,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0298,1313,Alternating,Weak,73,Alternating digits
+C4_0434,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0045,3456,Sequential,Weak,90,Straight sequences
+C6_0580,000000,Repeated Digits,Weak,95,All digits same
+C6_0591,000000,Repeated Digits,Weak,95,All digits same
+S_0456,6712,Random,Strong,10,No known pattern
+C6_1000,202020,Special/Other,Weak,65,Special dates
+C6_0577,000000,Repeated Digits,Weak,95,All digits same
+S_0591,627140,Random,Strong,10,No known pattern
+S_0976,081367,Random,Strong,10,No known pattern
+S_0922,419670,Random,Strong,10,No known pattern
+C4_0139,1111,Repeated Digits,Weak,95,All digits same
+C6_0931,131313,Special/Other,Weak,65,Special dates
+S_0392,6958,Random,Strong,10,No known pattern
+S_0926,194578,Random,Strong,10,No known pattern
+C6_0901,445566,Doublets,Weak,70,Double pairs
+S_0432,2094,Random,Strong,10,No known pattern
+C6_0804,343434,Alternating,Weak,73,Alternating digits
+C4_0195,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0458,0869,Random,Strong,10,No known pattern
+C4_0392,5566,Doublets,Weak,70,Double pairs
+C6_0954,151515,Special/Other,Weak,65,Special dates
+C4_0172,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0089,6247,Random,Strong,10,No known pattern
+C4_0171,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0006,4321,Sequential,Weak,90,Straight sequences
+C4_0300,1212,Alternating,Weak,73,Alternating digits
+S_0668,694120,Random,Strong,10,No known pattern
+C6_0841,121212,Alternating,Weak,73,Alternating digits
+C6_0532,123456,Sequential,Weak,90,Straight sequences
+C4_0483,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0948,031746,Random,Strong,10,No known pattern
+S_0330,3174,Random,Strong,10,No known pattern
+S_0422,8137,Random,Strong,10,No known pattern
+S_0049,6847,Random,Strong,10,No known pattern
+S_0695,431095,Random,Strong,10,No known pattern
+C6_0654,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0868,904587,Random,Strong,10,No known pattern
+S_0800,162934,Random,Strong,10,No known pattern
+S_0852,047631,Random,Strong,10,No known pattern
+S_0834,874236,Random,Strong,10,No known pattern
+S_0527,634051,Random,Strong,10,No known pattern
+S_0680,956128,Random,Strong,10,No known pattern
+C4_0329,1313,Alternating,Weak,73,Alternating digits
+C6_0909,445566,Doublets,Weak,70,Double pairs
+S_0782,613802,Random,Strong,10,No known pattern
+S_0840,426938,Random,Strong,10,No known pattern
+C6_0936,202020,Special/Other,Weak,65,Special dates
+S_0726,815643,Random,Strong,10,No known pattern
+C6_0920,112233,Doublets,Weak,70,Double pairs
+S_0011,7159,Random,Strong,10,No known pattern
+C4_0127,2222,Repeated Digits,Weak,95,All digits same
+C6_0773,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0368,1122,Doublets,Weak,70,Double pairs
+S_0671,382509,Random,Strong,10,No known pattern
+C4_0205,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0302,2323,Alternating,Weak,73,Alternating digits
+C4_0037,4321,Sequential,Weak,90,Straight sequences
+C6_0816,343434,Alternating,Weak,73,Alternating digits
+S_0311,0961,Random,Strong,10,No known pattern
+C4_0025,2345,Sequential,Weak,90,Straight sequences
+C6_0588,999999,Repeated Digits,Weak,95,All digits same
+S_0943,201743,Random,Strong,10,No known pattern
+S_0414,2159,Random,Strong,10,No known pattern
+C4_0193,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0840,121212,Alternating,Weak,73,Alternating digits
+S_0961,918460,Random,Strong,10,No known pattern
+C4_0080,2222,Repeated Digits,Weak,95,All digits same
+S_0793,640951,Random,Strong,10,No known pattern
+S_0010,9645,Random,Strong,10,No known pattern
+S_0185,6938,Random,Strong,10,No known pattern
+C6_0797,343434,Alternating,Weak,73,Alternating digits
+S_0806,670485,Random,Strong,10,No known pattern
+S_0571,523180,Random,Strong,10,No known pattern
+C6_0823,121212,Alternating,Weak,73,Alternating digits
+C4_0065,3456,Sequential,Weak,90,Straight sequences
+S_0924,978604,Random,Strong,10,No known pattern
+C4_0147,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0234,5134,Random,Strong,10,No known pattern
+S_0427,2506,Random,Strong,10,No known pattern
+S_0729,482031,Random,Strong,10,No known pattern
+S_0704,043582,Random,Strong,10,No known pattern
+S_0076,9143,Random,Strong,10,No known pattern
+S_0511,543019,Random,Strong,10,No known pattern
+S_0004,3017,Random,Strong,10,No known pattern
+C4_0406,1122,Doublets,Weak,70,Double pairs
+C4_0196,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0058,1234,Sequential,Weak,90,Straight sequences
+S_0232,5690,Random,Strong,10,No known pattern
+C6_0548,654321,Sequential,Weak,90,Straight sequences
+S_0719,180937,Random,Strong,10,No known pattern
+C4_0075,1111,Repeated Digits,Weak,95,All digits same
+S_0147,1973,Random,Strong,10,No known pattern
+C6_0689,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0983,529476,Random,Strong,10,No known pattern
+C6_0994,202020,Special/Other,Weak,65,Special dates
+S_0678,650917,Random,Strong,10,No known pattern
+S_0820,361245,Random,Strong,10,No known pattern
+S_0408,5729,Random,Strong,10,No known pattern
+S_0394,8539,Random,Strong,10,No known pattern
+C6_0995,202020,Special/Other,Weak,65,Special dates
+S_0735,624081,Random,Strong,10,No known pattern
+S_0019,7364,Random,Strong,10,No known pattern
+S_0797,892067,Random,Strong,10,No known pattern
+S_0060,9401,Random,Strong,10,No known pattern
+S_0156,9820,Random,Strong,10,No known pattern
+S_0843,172309,Random,Strong,10,No known pattern
+C4_0497,1004,Special/Other,Weak,65,Famous dates or symbols
+C4_0098,9999,Repeated Digits,Weak,95,All digits same
+S_0329,3564,Random,Strong,10,No known pattern
+S_0216,9736,Random,Strong,10,No known pattern
+C4_0265,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0513,213687,Random,Strong,10,No known pattern
+C4_0415,1122,Doublets,Weak,70,Double pairs
+S_0209,2674,Random,Strong,10,No known pattern
+S_0553,069574,Random,Strong,10,No known pattern
+S_0425,4921,Random,Strong,10,No known pattern
+C4_0366,5566,Doublets,Weak,70,Double pairs
+C4_0460,2020,Special/Other,Weak,65,Famous dates or symbols
+C6_0508,654321,Sequential,Weak,90,Straight sequences
+S_0561,431096,Random,Strong,10,No known pattern
+C6_0708,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0457,5162,Random,Strong,10,No known pattern
+C4_0018,2345,Sequential,Weak,90,Straight sequences
+S_0851,640173,Random,Strong,10,No known pattern
+S_0464,4206,Random,Strong,10,No known pattern
+C6_0896,112233,Doublets,Weak,70,Double pairs
+C4_0003,1234,Sequential,Weak,90,Straight sequences
+S_0501,894065,Random,Strong,10,No known pattern
+S_0814,805791,Random,Strong,10,No known pattern
+C6_0558,654321,Sequential,Weak,90,Straight sequences
+S_0629,836749,Random,Strong,10,No known pattern
+C4_0047,1234,Sequential,Weak,90,Straight sequences
+S_0796,540763,Random,Strong,10,No known pattern
+S_0165,8361,Random,Strong,10,No known pattern
+C4_0440,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0103,9999,Repeated Digits,Weak,95,All digits same
+C6_0748,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0662,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0355,3259,Random,Strong,10,No known pattern
+C6_0973,131313,Special/Other,Weak,65,Special dates
+C6_0887,445566,Doublets,Weak,70,Double pairs
+S_0909,279015,Random,Strong,10,No known pattern
+S_0024,7326,Random,Strong,10,No known pattern
+S_0688,038256,Random,Strong,10,No known pattern
+C4_0055,3456,Sequential,Weak,90,Straight sequences
+C4_0331,1313,Alternating,Weak,73,Alternating digits
+C4_0224,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0332,1212,Alternating,Weak,73,Alternating digits
+S_0711,067412,Random,Strong,10,No known pattern
+C4_0358,1313,Alternating,Weak,73,Alternating digits
+S_0327,1397,Random,Strong,10,No known pattern
+S_0406,2780,Random,Strong,10,No known pattern
+S_0839,834156,Random,Strong,10,No known pattern
+S_0135,4012,Random,Strong,10,No known pattern
+C6_0614,000000,Repeated Digits,Weak,95,All digits same
+C6_0821,121212,Alternating,Weak,73,Alternating digits
+S_0337,0586,Random,Strong,10,No known pattern
+S_0883,851942,Random,Strong,10,No known pattern
+C6_0555,654321,Sequential,Weak,90,Straight sequences
+C6_0749,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0754,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0730,817064,Random,Strong,10,No known pattern
+C4_0318,2323,Alternating,Weak,73,Alternating digits
+C6_0957,202020,Special/Other,Weak,65,Special dates
+S_0605,803674,Random,Strong,10,No known pattern
+C6_0801,343434,Alternating,Weak,73,Alternating digits
+S_0397,5372,Random,Strong,10,No known pattern
+C6_0681,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0446,8943,Random,Strong,10,No known pattern
+C6_0848,121212,Alternating,Weak,73,Alternating digits
+S_0778,485072,Random,Strong,10,No known pattern
+C6_0813,343434,Alternating,Weak,73,Alternating digits
+C6_0584,999999,Repeated Digits,Weak,95,All digits same
+S_0707,071328,Random,Strong,10,No known pattern
+S_0535,259417,Random,Strong,10,No known pattern
+S_0235,4231,Random,Strong,10,No known pattern
+S_0072,1273,Random,Strong,10,No known pattern
+S_0047,2830,Random,Strong,10,No known pattern
+S_0176,1789,Random,Strong,10,No known pattern
+S_0485,5349,Random,Strong,10,No known pattern
+S_0650,318502,Random,Strong,10,No known pattern
+S_0364,3957,Random,Strong,10,No known pattern
+S_0546,528640,Random,Strong,10,No known pattern
+S_0741,813720,Random,Strong,10,No known pattern
+C4_0278,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0941,202020,Special/Other,Weak,65,Special dates
+C6_0899,445566,Doublets,Weak,70,Double pairs
+C6_0702,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0456,2020,Special/Other,Weak,65,Famous dates or symbols
+C6_0529,123456,Sequential,Weak,90,Straight sequences
+S_0749,748120,Random,Strong,10,No known pattern
+C4_0397,1122,Doublets,Weak,70,Double pairs
+S_0288,1284,Random,Strong,10,No known pattern
+S_0837,351829,Random,Strong,10,No known pattern
+C4_0261,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0643,810569,Random,Strong,10,No known pattern
+C4_0411,7788,Doublets,Weak,70,Double pairs
+C4_0443,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0405,2579,Random,Strong,10,No known pattern
+C6_0678,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0160,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0712,072634,Random,Strong,10,No known pattern
+C6_0720,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0039,8275,Random,Strong,10,No known pattern
+S_0554,863705,Random,Strong,10,No known pattern
+C4_0067,4321,Sequential,Weak,90,Straight sequences
+C6_0768,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0394,5566,Doublets,Weak,70,Double pairs
+C6_0636,999999,Repeated Digits,Weak,95,All digits same
+S_0184,4019,Random,Strong,10,No known pattern
+S_0473,9872,Random,Strong,10,No known pattern
+S_0542,615039,Random,Strong,10,No known pattern
+S_0043,4051,Random,Strong,10,No known pattern
+S_0279,4265,Random,Strong,10,No known pattern
+S_0370,0839,Random,Strong,10,No known pattern
+S_0693,460721,Random,Strong,10,No known pattern
+S_0521,381975,Random,Strong,10,No known pattern
+S_0313,6074,Random,Strong,10,No known pattern
+S_0964,183746,Random,Strong,10,No known pattern
+S_0295,5294,Random,Strong,10,No known pattern
+C4_0016,4321,Sequential,Weak,90,Straight sequences
+S_0217,5320,Random,Strong,10,No known pattern
+C6_0566,123456,Sequential,Weak,90,Straight sequences
+C6_0582,111111,Repeated Digits,Weak,95,All digits same
+S_0969,318204,Random,Strong,10,No known pattern
+S_0207,6852,Random,Strong,10,No known pattern
+C4_0229,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0417,1122,Doublets,Weak,70,Double pairs
+S_0921,510276,Random,Strong,10,No known pattern
+C6_0979,131313,Special/Other,Weak,65,Special dates
+S_0434,7513,Random,Strong,10,No known pattern
+S_0636,308546,Random,Strong,10,No known pattern
+C4_0290,1212,Alternating,Weak,73,Alternating digits
+S_0331,0954,Random,Strong,10,No known pattern
+S_0033,3814,Random,Strong,10,No known pattern
+C4_0081,1111,Repeated Digits,Weak,95,All digits same
+S_0724,416257,Random,Strong,10,No known pattern
+S_0955,278964,Random,Strong,10,No known pattern
+S_0599,875302,Random,Strong,10,No known pattern
+C6_0571,654321,Sequential,Weak,90,Straight sequences
+S_0192,8597,Random,Strong,10,No known pattern
+C4_0383,5566,Doublets,Weak,70,Double pairs
+S_0990,984215,Random,Strong,10,No known pattern
+C4_0277,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0094,0421,Random,Strong,10,No known pattern
+C6_0569,654321,Sequential,Weak,90,Straight sequences
+S_0988,187352,Random,Strong,10,No known pattern
+S_0475,2859,Random,Strong,10,No known pattern
+S_0472,4108,Random,Strong,10,No known pattern
+C6_0776,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0957,295708,Random,Strong,10,No known pattern
+S_0498,4976,Random,Strong,10,No known pattern
+C4_0064,1234,Sequential,Weak,90,Straight sequences
+C4_0337,1313,Alternating,Weak,73,Alternating digits
+S_0071,1483,Random,Strong,10,No known pattern
+C6_0542,654321,Sequential,Weak,90,Straight sequences
+C4_0190,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0960,270698,Random,Strong,10,No known pattern
+S_0421,1279,Random,Strong,10,No known pattern
+S_0808,216930,Random,Strong,10,No known pattern
+C6_0651,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0496,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0926,112233,Doublets,Weak,70,Double pairs
+C4_0340,1212,Alternating,Weak,73,Alternating digits
+S_0767,901537,Random,Strong,10,No known pattern
+C4_0493,2020,Special/Other,Weak,65,Famous dates or symbols
+S_0901,321475,Random,Strong,10,No known pattern
+S_0788,903257,Random,Strong,10,No known pattern
+C6_0634,000000,Repeated Digits,Weak,95,All digits same
+C4_0418,7788,Doublets,Weak,70,Double pairs
+C6_0871,445566,Doublets,Weak,70,Double pairs
+S_0439,6082,Random,Strong,10,No known pattern
+C6_0912,445566,Doublets,Weak,70,Double pairs
+C4_0441,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0544,654321,Sequential,Weak,90,Straight sequences
+S_0567,914768,Random,Strong,10,No known pattern
+S_0743,584790,Random,Strong,10,No known pattern
+S_0359,8791,Random,Strong,10,No known pattern
+C4_0254,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0672,704865,Random,Strong,10,No known pattern
+C6_0850,343434,Alternating,Weak,73,Alternating digits
+C4_0274,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0090,9530,Random,Strong,10,No known pattern
+C4_0350,2323,Alternating,Weak,73,Alternating digits
+C6_0574,123456,Sequential,Weak,90,Straight sequences
+S_0151,1652,Random,Strong,10,No known pattern
+C6_0706,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0020,9418,Random,Strong,10,No known pattern
+C6_0757,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0446,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0803,343434,Alternating,Weak,73,Alternating digits
+S_0510,492105,Random,Strong,10,No known pattern
+C6_0875,112233,Doublets,Weak,70,Double pairs
+S_0231,3081,Random,Strong,10,No known pattern
+C4_0216,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0531,724613,Random,Strong,10,No known pattern
+C6_0725,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0079,1111,Repeated Digits,Weak,95,All digits same
+C6_0966,131313,Special/Other,Weak,65,Special dates
+C6_0944,151515,Special/Other,Weak,65,Special dates
+C6_0765,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0126,5716,Random,Strong,10,No known pattern
+S_0494,1056,Random,Strong,10,No known pattern
+C6_0939,151515,Special/Other,Weak,65,Special dates
+S_0997,018435,Random,Strong,10,No known pattern
+C6_0575,654321,Sequential,Weak,90,Straight sequences
+S_0333,8501,Random,Strong,10,No known pattern
+S_0100,2716,Random,Strong,10,No known pattern
+C4_0182,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0531,123456,Sequential,Weak,90,Straight sequences
+C6_0997,131313,Special/Other,Weak,65,Special dates
+S_0106,8917,Random,Strong,10,No known pattern
+C6_0730,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0734,894751,Random,Strong,10,No known pattern
+S_0170,6470,Random,Strong,10,No known pattern
+C4_0021,2345,Sequential,Weak,90,Straight sequences
+S_0518,357081,Random,Strong,10,No known pattern
+C4_0281,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0939,015839,Random,Strong,10,No known pattern
+S_0442,0258,Random,Strong,10,No known pattern
+C6_0693,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0160,8265,Random,Strong,10,No known pattern
+C6_0672,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0324,1212,Alternating,Weak,73,Alternating digits
+S_0293,3958,Random,Strong,10,No known pattern
+S_0261,7538,Random,Strong,10,No known pattern
+S_0691,920354,Random,Strong,10,No known pattern
+S_0079,4163,Random,Strong,10,No known pattern
+C6_0521,123456,Sequential,Weak,90,Straight sequences
+S_0158,1397,Random,Strong,10,No known pattern
+C4_0241,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0965,151515,Special/Other,Weak,65,Special dates
+C4_0286,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0275,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0506,374209,Random,Strong,10,No known pattern
+C6_0536,654321,Sequential,Weak,90,Straight sequences
+S_0260,9306,Random,Strong,10,No known pattern
+C6_0886,112233,Doublets,Weak,70,Double pairs
+C4_0364,5566,Doublets,Weak,70,Double pairs
+S_0891,182734,Random,Strong,10,No known pattern
+S_0344,6253,Random,Strong,10,No known pattern
+S_0332,7802,Random,Strong,10,No known pattern
+C4_0423,5566,Doublets,Weak,70,Double pairs
+S_0493,7396,Random,Strong,10,No known pattern
+C4_0028,4321,Sequential,Weak,90,Straight sequences
+C6_0843,343434,Alternating,Weak,73,Alternating digits
+C4_0431,5566,Doublets,Weak,70,Double pairs
+C4_0269,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0647,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0464,1004,Special/Other,Weak,65,Famous dates or symbols
+C4_0404,5566,Doublets,Weak,70,Double pairs
+C4_0469,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0484,1680,Random,Strong,10,No known pattern
+C4_0258,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0353,2323,Alternating,Weak,73,Alternating digits
+C6_0603,000000,Repeated Digits,Weak,95,All digits same
+S_0669,950872,Random,Strong,10,No known pattern
+S_0871,409875,Random,Strong,10,No known pattern
+C4_0059,4321,Sequential,Weak,90,Straight sequences
+S_0034,3150,Random,Strong,10,No known pattern
+S_0206,2916,Random,Strong,10,No known pattern
+S_0159,4289,Random,Strong,10,No known pattern
+S_0548,308196,Random,Strong,10,No known pattern
+S_0895,172680,Random,Strong,10,No known pattern
+C4_0213,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0275,7496,Random,Strong,10,No known pattern
+S_0721,016982,Random,Strong,10,No known pattern
+S_0588,960423,Random,Strong,10,No known pattern
+C4_0053,3456,Sequential,Weak,90,Straight sequences
+S_0022,7829,Random,Strong,10,No known pattern
+C4_0120,9999,Repeated Digits,Weak,95,All digits same
+S_0198,5203,Random,Strong,10,No known pattern
+S_0929,609815,Random,Strong,10,No known pattern
+S_0140,5742,Random,Strong,10,No known pattern
+C6_0519,654321,Sequential,Weak,90,Straight sequences
+S_0114,4507,Random,Strong,10,No known pattern
+C4_0271,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0770,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0032,1396,Random,Strong,10,No known pattern
+S_0189,9786,Random,Strong,10,No known pattern
+C6_0953,151515,Special/Other,Weak,65,Special dates
+S_0723,832170,Random,Strong,10,No known pattern
+S_0798,148926,Random,Strong,10,No known pattern
+S_0927,816954,Random,Strong,10,No known pattern
+C6_0643,999999,Repeated Digits,Weak,95,All digits same
+C6_0537,654321,Sequential,Weak,90,Straight sequences
+S_0747,106348,Random,Strong,10,No known pattern
+C6_0573,654321,Sequential,Weak,90,Straight sequences
+S_0908,530146,Random,Strong,10,No known pattern
+C6_0586,111111,Repeated Digits,Weak,95,All digits same
+C4_0369,7788,Doublets,Weak,70,Double pairs
+S_0674,348679,Random,Strong,10,No known pattern
+C6_0851,343434,Alternating,Weak,73,Alternating digits
+S_0881,032871,Random,Strong,10,No known pattern
+C6_0572,654321,Sequential,Weak,90,Straight sequences
+C4_0395,7788,Doublets,Weak,70,Double pairs
+S_0764,963247,Random,Strong,10,No known pattern
+S_0920,784612,Random,Strong,10,No known pattern
+C6_0928,112233,Doublets,Weak,70,Double pairs
+S_0212,0295,Random,Strong,10,No known pattern
+S_0273,1254,Random,Strong,10,No known pattern
+S_0104,8079,Random,Strong,10,No known pattern
+C6_0663,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0596,839452,Random,Strong,10,No known pattern
+C6_0664,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0761,802173,Random,Strong,10,No known pattern
+C4_0463,1515,Special/Other,Weak,65,Famous dates or symbols
+C6_0505,654321,Sequential,Weak,90,Straight sequences
+C4_0215,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0419,5408,Random,Strong,10,No known pattern
+S_0647,160784,Random,Strong,10,No known pattern
+C6_0917,112233,Doublets,Weak,70,Double pairs
+S_0339,9132,Random,Strong,10,No known pattern
+S_0210,8302,Random,Strong,10,No known pattern
+S_0757,247508,Random,Strong,10,No known pattern
+C6_0947,131313,Special/Other,Weak,65,Special dates
+S_0252,7489,Random,Strong,10,No known pattern
+C4_0181,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0792,343434,Alternating,Weak,73,Alternating digits
+S_0977,432107,Random,Strong,10,No known pattern
+C4_0200,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0917,543829,Random,Strong,10,No known pattern
+S_0375,0138,Random,Strong,10,No known pattern
+S_0503,189624,Random,Strong,10,No known pattern
+C4_0188,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0963,131313,Special/Other,Weak,65,Special dates
+S_0634,079532,Random,Strong,10,No known pattern
+C4_0100,0000,Repeated Digits,Weak,95,All digits same
+C4_0071,4321,Sequential,Weak,90,Straight sequences
+S_0809,274380,Random,Strong,10,No known pattern
+C6_0735,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0989,151515,Special/Other,Weak,65,Special dates
+C4_0362,7788,Doublets,Weak,70,Double pairs
+C6_0786,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0866,589463,Random,Strong,10,No known pattern
+C6_0589,111111,Repeated Digits,Weak,95,All digits same
+C6_0675,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0325,1928,Random,Strong,10,No known pattern
+C6_0719,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0911,417830,Random,Strong,10,No known pattern
+S_0533,491870,Random,Strong,10,No known pattern
+C4_0334,1313,Alternating,Weak,73,Alternating digits
+S_0133,7350,Random,Strong,10,No known pattern
+S_0377,6875,Random,Strong,10,No known pattern
+C6_0545,123456,Sequential,Weak,90,Straight sequences
+C6_0733,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0624,160983,Random,Strong,10,No known pattern
+S_0574,431527,Random,Strong,10,No known pattern
+C6_0596,999999,Repeated Digits,Weak,95,All digits same
+S_0728,356142,Random,Strong,10,No known pattern
+C4_0356,1313,Alternating,Weak,73,Alternating digits
+C6_0842,343434,Alternating,Weak,73,Alternating digits
+S_0492,0184,Random,Strong,10,No known pattern
+S_0799,456281,Random,Strong,10,No known pattern
+S_0524,149623,Random,Strong,10,No known pattern
+S_0738,965472,Random,Strong,10,No known pattern
+C4_0430,5566,Doublets,Weak,70,Double pairs
+C6_0530,654321,Sequential,Weak,90,Straight sequences
+S_0579,283417,Random,Strong,10,No known pattern
+C4_0236,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0037,3496,Random,Strong,10,No known pattern
+C4_0063,2345,Sequential,Weak,90,Straight sequences
+C4_0475,1004,Special/Other,Weak,65,Famous dates or symbols
+S_0982,618094,Random,Strong,10,No known pattern
+S_0103,6028,Random,Strong,10,No known pattern
+S_0985,518930,Random,Strong,10,No known pattern
+C6_0980,151515,Special/Other,Weak,65,Special dates
+C4_0228,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0338,2323,Alternating,Weak,73,Alternating digits
+C6_0763,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0281,7651,Random,Strong,10,No known pattern
+C4_0481,1004,Special/Other,Weak,65,Famous dates or symbols
+C4_0051,2345,Sequential,Weak,90,Straight sequences
+S_0303,0534,Random,Strong,10,No known pattern
+S_0226,3920,Random,Strong,10,No known pattern
+S_0850,416059,Random,Strong,10,No known pattern
+S_0670,874916,Random,Strong,10,No known pattern
+S_0124,7350,Random,Strong,10,No known pattern
+S_0203,9615,Random,Strong,10,No known pattern
+S_0450,9031,Random,Strong,10,No known pattern
+S_0635,381025,Random,Strong,10,No known pattern
+C4_0287,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0069,0897,Random,Strong,10,No known pattern
+S_0931,793250,Random,Strong,10,No known pattern
+S_0529,284301,Random,Strong,10,No known pattern
+S_0336,0526,Random,Strong,10,No known pattern
+C6_0802,343434,Alternating,Weak,73,Alternating digits
+S_0564,096182,Random,Strong,10,No known pattern
+C4_0101,2222,Repeated Digits,Weak,95,All digits same
+C6_0553,123456,Sequential,Weak,90,Straight sequences
+C6_0627,999999,Repeated Digits,Weak,95,All digits same
+S_0067,6814,Random,Strong,10,No known pattern
+S_0200,9401,Random,Strong,10,No known pattern
+C6_0892,112233,Doublets,Weak,70,Double pairs
+S_0739,139408,Random,Strong,10,No known pattern
+S_0987,786945,Random,Strong,10,No known pattern
+C4_0214,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0564,654321,Sequential,Weak,90,Straight sequences
+C6_0961,151515,Special/Other,Weak,65,Special dates
+C6_0559,654321,Sequential,Weak,90,Straight sequences
+S_0070,1536,Random,Strong,10,No known pattern
+C6_0923,112233,Doublets,Weak,70,Double pairs
+C4_0170,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0059,3709,Random,Strong,10,No known pattern
+S_0936,492051,Random,Strong,10,No known pattern
+S_0152,6987,Random,Strong,10,No known pattern
+C4_0314,1313,Alternating,Weak,73,Alternating digits
+C6_0827,343434,Alternating,Weak,73,Alternating digits
+S_0807,048691,Random,Strong,10,No known pattern
+C4_0206,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0694,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0398,7788,Doublets,Weak,70,Double pairs
+S_0006,4179,Random,Strong,10,No known pattern
+C6_0587,000000,Repeated Digits,Weak,95,All digits same
+S_0308,5874,Random,Strong,10,No known pattern
+C6_0845,343434,Alternating,Weak,73,Alternating digits
+C4_0297,1212,Alternating,Weak,73,Alternating digits
+S_0030,5701,Random,Strong,10,No known pattern
+C4_0090,9999,Repeated Digits,Weak,95,All digits same
+C4_0382,7788,Doublets,Weak,70,Double pairs
+S_0174,9475,Random,Strong,10,No known pattern
+C4_0263,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0264,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0423,9173,Random,Strong,10,No known pattern
+S_0162,4375,Random,Strong,10,No known pattern
+C6_0666,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0732,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0267,0586,Random,Strong,10,No known pattern
+C4_0237,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0388,3062,Random,Strong,10,No known pattern
+C4_0022,4321,Sequential,Weak,90,Straight sequences
+S_0508,049618,Random,Strong,10,No known pattern
+C6_0809,121212,Alternating,Weak,73,Alternating digits
+S_0687,328596,Random,Strong,10,No known pattern
+C4_0034,2345,Sequential,Weak,90,Straight sequences
+S_0347,6312,Random,Strong,10,No known pattern
+S_0970,735081,Random,Strong,10,No known pattern
+C6_0617,111111,Repeated Digits,Weak,95,All digits same
+S_0197,5641,Random,Strong,10,No known pattern
+C4_0203,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0791,428730,Random,Strong,10,No known pattern
+S_0453,3152,Random,Strong,10,No known pattern
+S_0093,0976,Random,Strong,10,No known pattern
+C6_0819,121212,Alternating,Weak,73,Alternating digits
+C4_0478,2020,Special/Other,Weak,65,Famous dates or symbols
+C4_0141,2222,Repeated Digits,Weak,95,All digits same
+S_0857,509613,Random,Strong,10,No known pattern
+C4_0014,3456,Sequential,Weak,90,Straight sequences
+C4_0005,2345,Sequential,Weak,90,Straight sequences
+C6_0846,343434,Alternating,Weak,73,Alternating digits
+S_0619,632781,Random,Strong,10,No known pattern
+S_0407,3691,Random,Strong,10,No known pattern
+C6_0900,112233,Doublets,Weak,70,Double pairs
+C6_0853,343434,Alternating,Weak,73,Alternating digits
+S_0962,059871,Random,Strong,10,No known pattern
+S_0259,4728,Random,Strong,10,No known pattern
+C4_0026,4321,Sequential,Weak,90,Straight sequences
+S_0062,4026,Random,Strong,10,No known pattern
+C4_0391,5566,Doublets,Weak,70,Double pairs
+S_0952,463875,Random,Strong,10,No known pattern
+S_0594,310945,Random,Strong,10,No known pattern
+C6_0885,112233,Doublets,Weak,70,Double pairs
+C6_0879,445566,Doublets,Weak,70,Double pairs
+S_0099,2435,Random,Strong,10,No known pattern
+S_0410,0946,Random,Strong,10,No known pattern
+S_0979,986235,Random,Strong,10,No known pattern
+S_0620,187264,Random,Strong,10,No known pattern
+C6_0632,999999,Repeated Digits,Weak,95,All digits same
+S_0038,2675,Random,Strong,10,No known pattern
+C6_0969,202020,Special/Other,Weak,65,Special dates
+C6_0867,112233,Doublets,Weak,70,Double pairs
+S_0194,4130,Random,Strong,10,No known pattern
+C4_0305,1313,Alternating,Weak,73,Alternating digits
+C4_0276,3443,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0138,2594,Random,Strong,10,No known pattern
+C4_0041,2345,Sequential,Weak,90,Straight sequences
+C4_0020,3456,Sequential,Weak,90,Straight sequences
+C6_0551,123456,Sequential,Weak,90,Straight sequences
+S_0496,0948,Random,Strong,10,No known pattern
+S_0318,8795,Random,Strong,10,No known pattern
+S_0092,6412,Random,Strong,10,No known pattern
+C6_0918,445566,Doublets,Weak,70,Double pairs
+C6_0881,112233,Doublets,Weak,70,Double pairs
+C4_0093,0000,Repeated Digits,Weak,95,All digits same
+S_0054,4921,Random,Strong,10,No known pattern
+S_0684,852061,Random,Strong,10,No known pattern
+C4_0015,4321,Sequential,Weak,90,Straight sequences
+C4_0153,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0857,121212,Alternating,Weak,73,Alternating digits
+C6_0794,121212,Alternating,Weak,73,Alternating digits
+C6_0849,121212,Alternating,Weak,73,Alternating digits
+C6_0811,121212,Alternating,Weak,73,Alternating digits
+C4_0019,4321,Sequential,Weak,90,Straight sequences
+S_0981,713604,Random,Strong,10,No known pattern
+C4_0117,0000,Repeated Digits,Weak,95,All digits same
+C4_0294,1313,Alternating,Weak,73,Alternating digits
+S_0550,147082,Random,Strong,10,No known pattern
+C4_0342,1313,Alternating,Weak,73,Alternating digits
+C4_0164,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0462,1515,Special/Other,Weak,65,Famous dates or symbols
+S_0679,120785,Random,Strong,10,No known pattern
+S_0745,793018,Random,Strong,10,No known pattern
+C4_0099,2222,Repeated Digits,Weak,95,All digits same
+C6_0712,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0501,1004,Special/Other,Weak,65,Famous dates or symbols
+C6_0510,654321,Sequential,Weak,90,Straight sequences
+S_0002,5160,Random,Strong,10,No known pattern
+C6_0653,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+S_1000,582301,Random,Strong,10,No known pattern
+C4_0104,1111,Repeated Digits,Weak,95,All digits same
+S_0755,820317,Random,Strong,10,No known pattern
+C6_0690,147852,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0123,2222,Repeated Digits,Weak,95,All digits same
+C4_0013,2345,Sequential,Weak,90,Straight sequences
+S_0017,9641,Random,Strong,10,No known pattern
+C4_0412,1122,Doublets,Weak,70,Double pairs
+S_0127,5169,Random,Strong,10,No known pattern
+S_0991,573124,Random,Strong,10,No known pattern
+S_0150,6394,Random,Strong,10,No known pattern
+S_0938,784165,Random,Strong,10,No known pattern
+C4_0303,2323,Alternating,Weak,73,Alternating digits
+S_0088,2460,Random,Strong,10,No known pattern
+C4_0152,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0691,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0086,6478,Random,Strong,10,No known pattern
+S_0084,1436,Random,Strong,10,No known pattern
+C4_0204,2580,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0804,869247,Random,Strong,10,No known pattern
+C4_0217,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0612,527046,Random,Strong,10,No known pattern
+S_0913,172068,Random,Strong,10,No known pattern
+S_0919,754086,Random,Strong,10,No known pattern
+S_0483,9137,Random,Strong,10,No known pattern
+S_0720,124659,Random,Strong,10,No known pattern
+C4_0212,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0111,1972,Random,Strong,10,No known pattern
+S_0035,4870,Random,Strong,10,No known pattern
+S_0168,9351,Random,Strong,10,No known pattern
+S_0056,3927,Random,Strong,10,No known pattern
+S_0087,6478,Random,Strong,10,No known pattern
+S_0449,4820,Random,Strong,10,No known pattern
+S_0302,0982,Random,Strong,10,No known pattern
+C4_0189,1478,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0197,1593,Keypad Patterns,Weak,85,Keypad memory patterns
+C4_0435,1515,Special/Other,Weak,65,Famous dates or symbols
+C4_0232,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0438,5947,Random,Strong,10,No known pattern
+S_0157,1648,Random,Strong,10,No known pattern
+S_0653,793014,Random,Strong,10,No known pattern
+C6_0933,131313,Special/Other,Weak,65,Special dates
+C6_0946,202020,Special/Other,Weak,65,Special dates
+C4_0442,2020,Special/Other,Weak,65,Famous dates or symbols
+C4_0354,1212,Alternating,Weak,73,Alternating digits
+C4_0320,2323,Alternating,Weak,73,Alternating digits
+S_0005,6843,Random,Strong,10,No known pattern
+S_0358,9271,Random,Strong,10,No known pattern
+S_0091,4093,Random,Strong,10,No known pattern
+S_0477,9216,Random,Strong,10,No known pattern
+C6_0705,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0481,7583,Random,Strong,10,No known pattern
+C6_0528,654321,Sequential,Weak,90,Straight sequences
+S_0401,4250,Random,Strong,10,No known pattern
+S_0912,067392,Random,Strong,10,No known pattern
+C4_0135,1111,Repeated Digits,Weak,95,All digits same
+S_0236,6318,Random,Strong,10,No known pattern
+C6_0942,131313,Special/Other,Weak,65,Special dates
+S_0762,814675,Random,Strong,10,No known pattern
+C6_0932,131313,Special/Other,Weak,65,Special dates
+C6_0795,121212,Alternating,Weak,73,Alternating digits
+C6_0822,121212,Alternating,Weak,73,Alternating digits
+C6_0597,999999,Repeated Digits,Weak,95,All digits same
+C6_0824,121212,Alternating,Weak,73,Alternating digits
+C6_0560,123456,Sequential,Weak,90,Straight sequences
+C6_0731,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C4_0084,2222,Repeated Digits,Weak,95,All digits same
+S_0703,894360,Random,Strong,10,No known pattern
+C6_0943,202020,Special/Other,Weak,65,Special dates
+C6_0949,202020,Special/Other,Weak,65,Special dates
+S_0399,3974,Random,Strong,10,No known pattern
+C6_0818,343434,Alternating,Weak,73,Alternating digits
+S_0366,0934,Random,Strong,10,No known pattern
+C6_0516,123456,Sequential,Weak,90,Straight sequences
+S_0555,072586,Random,Strong,10,No known pattern
+C4_0082,2222,Repeated Digits,Weak,95,All digits same
+S_0082,5849,Random,Strong,10,No known pattern
+C4_0457,1004,Special/Other,Weak,65,Famous dates or symbols
+C6_0699,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+C6_0779,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0760,264519,Random,Strong,10,No known pattern
+C6_0847,121212,Alternating,Weak,73,Alternating digits
+C6_0747,123321,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0297,0352,Random,Strong,10,No known pattern
+C4_0486,1004,Special/Other,Weak,65,Famous dates or symbols
+C6_0676,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0282,3541,Random,Strong,10,No known pattern
+C4_0042,1234,Sequential,Weak,90,Straight sequences
+C4_0373,1122,Doublets,Weak,70,Double pairs
+C4_0246,2112,Mirror/Symmetry,Weak,75,Mirror symmetry
+S_0218,3402,Random,Strong,10,No known pattern
+C4_0046,1234,Sequential,Weak,90,Straight sequences
+S_0986,427065,Random,Strong,10,No known pattern
+C6_0940,151515,Special/Other,Weak,65,Special dates
+C6_0972,202020,Special/Other,Weak,65,Special dates
+S_0454,8429,Random,Strong,10,No known pattern
+S_0898,405893,Random,Strong,10,No known pattern
+C6_0951,202020,Special/Other,Weak,65,Special dates
+C4_0351,2323,Alternating,Weak,73,Alternating digits
+C6_0674,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0360,2075,Random,Strong,10,No known pattern
+C4_0134,2222,Repeated Digits,Weak,95,All digits same
+C4_0060,3456,Sequential,Weak,90,Straight sequences
+S_0993,579801,Random,Strong,10,No known pattern
+S_0959,437028,Random,Strong,10,No known pattern
+S_0286,6014,Random,Strong,10,No known pattern
+S_0676,056943,Random,Strong,10,No known pattern
+S_0732,258304,Random,Strong,10,No known pattern
+S_0122,6930,Random,Strong,10,No known pattern
+S_0897,563127,Random,Strong,10,No known pattern
+C6_0661,258025,Keypad Patterns,Weak,85,Keypad memory patterns
+S_0148,9174,Random,Strong,10,No known pattern
+C4_0223,1221,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0772,456654,Mirror/Symmetry,Weak,75,Mirror symmetry
+C6_0611,999999,Repeated Digits,Weak,95,All digits same
