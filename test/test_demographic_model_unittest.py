@@ -3,14 +3,14 @@ import sys
 import os
 from datetime import datetime
 
-# Fix import path
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.abspath(os.path.join(current_dir, ".."))
 sys.path.insert(0, parent_dir)
 
 from mpin_security_checker.utils.demographic_utils import predict_demographic_strength
 
-# Helper to convert string to date
+
 def to_date(date_str):
     return datetime.strptime(date_str, "%Y-%m-%d").date()
 
@@ -24,7 +24,7 @@ class TestDemographicModel(unittest.TestCase):
         self.assertEqual(result, "WEAK")
 
     def test_jumbled_dob(self):
-        mpin = "0508"  # jumbled version of 0805
+        mpin = "0508"  
         result = predict_demographic_strength(mpin,
             to_date("2004-08-05"), to_date("2005-01-01"),
             to_date("2020-12-12"), to_date("2021-06-20"))

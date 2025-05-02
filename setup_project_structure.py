@@ -1,6 +1,6 @@
 import os
 
-# Define folder structure
+
 folders = [
     "mpin_security_checker",
     "mpin_security_checker/data",
@@ -15,13 +15,12 @@ files = {
     "mpin_security_checker/requirements.txt": ""
 }
 
-# Create folders
+
 for folder in folders:
     os.makedirs(folder, exist_ok=True)
 
-# Create base files
 for file_path, content in files.items():
     with open(file_path, 'w') as f:
         f.write(content)
 
-print("✅ MPIN project structure created successfully!")
+print(" MPIN project structure created successfully!")

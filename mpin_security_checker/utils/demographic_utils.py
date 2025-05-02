@@ -43,4 +43,4 @@ def predict_demographic_strength(mpin, dob_self, dob_spouse, dob_pet, anniversar
     prediction_encoded = model.predict(input_features)[0]
     prediction_label = label_encoder.inverse_transform([prediction_encoded])[0]
 
-    return prediction_label  # WEAK or STRONG
+    return prediction_label  

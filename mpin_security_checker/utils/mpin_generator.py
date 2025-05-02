@@ -3,25 +3,25 @@ import pandas as pd
 from utils.pattern_checker import get_pattern_type
 from utils.model_utils import predict_strength
 
-# Load list of common MPINs (from your properly structured CSV)
+
 COMMON_PINS_PATH = "mpin_security_checker/data/common_pins.csv"
 common_pins_df = pd.read_csv(COMMON_PINS_PATH)
 
-# ✅ Using the correct column: "mpin"
+
 common_pins_set = set(common_pins_df["mpin"].astype(str).tolist())
 
-# ------------------ Memory-based Candidate Generators ------------------
+
 
 def generate_medium():
-    # 4-digit non-repeating digits
+    
     digits = random.sample(range(10), 4)
     return ''.join(str(d) for d in digits)
 
 def generate_hard():
-    # 6-digit fully random sequence
+
     return ''.join(str(random.randint(0, 9)) for _ in range(6))
 
-# ------------------ Secure MPIN Generator ------------------
+
 
 def generate_secure_mpin(level, classifier, regressor, encoder, avoid_set=None):
     """

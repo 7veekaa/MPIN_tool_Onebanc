@@ -2,28 +2,28 @@ import random
 import pandas as pd
 from datetime import datetime, timedelta
 
-# Helper to create random date
+
 def random_date(start_year, end_year):
     start = datetime(start_year, 1, 1)
     end = datetime(end_year, 12, 31)
     return (start + timedelta(days=random.randint(0, (end - start).days))).date()
 
-# Create jumbled formats from a date
+
 def generate_jumbled_dates(date):
     date_str = date.strftime("%Y%m%d")
     return list(set([
-        date_str[2:6],                 # MMDD
-        date_str[4:8],                 # DDYY
-        date_str[0:4],                 # YYYY
-        date_str[6:8] + date_str[4:6], # DDMM reversed
-        date_str[2:4] + date_str[6:8]  # MMDD only
+        date_str[2:6],                 
+        date_str[4:8],                 
+        date_str[0:4],                 
+        date_str[6:8] + date_str[4:6], 
+        date_str[2:4] + date_str[6:8]  
     ]))
 
-# Common MPINs (to simulate weak cases)
+
 common_pins_4 = ['1234', '1111', '0000', '1212', '7777', '2580']
 common_pins_6 = ['123456', '111111', '000000', '121212', '654321', '258025']
 
-# Main function
+
 def generate_demographic_dataset(num_users=1000, output_file="demographic_checkpoint_data.csv"):
     users = []
 
@@ -54,7 +54,7 @@ def generate_demographic_dataset(num_users=1000, output_file="demographic_checkp
         else:
             mpin = str(random.randint(0, pin_space)).zfill(pin_length)
 
-        # Label logic
+        
         reasons = []
         if mpin in common_pins_4 + common_pins_6:
             reasons.append("COMMON_PATTERN")
@@ -89,6 +89,6 @@ def generate_demographic_dataset(num_users=1000, output_file="demographic_checkp
     df.to_csv(output_file, index=False)
     print(f"✅ CSV generated: {output_file} with {num_users} entries.")
 
-# Run this file directly
+
 if __name__ == "__main__":
     generate_demographic_dataset()
