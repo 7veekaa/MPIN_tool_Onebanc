@@ -1,7 +1,8 @@
 streamlit
-joblib
-scikit-learn
 numpy
 pandas
+scikit-learn
+joblib
 matplotlib
 pytest
+streamlit-lottie
