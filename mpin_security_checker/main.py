@@ -6,9 +6,7 @@ from utils.mpin_generator import generate_secure_mpin
 from utils.lottie_loader import load_lottie_url
 import streamlit_lottie as st_lottie
 
-
 st.set_page_config(page_title="MPIN Pattern Checker", layout="wide", initial_sidebar_state="auto")
-
 
 st.markdown("""
     <style>
@@ -61,13 +59,10 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-
 classifier, regressor, encoder = load_model()
-
 
 st.sidebar.title("OneBanc MPIN Tool")
 page = st.sidebar.radio("Choose a Feature", ["Home", "Demographic Checkpoint", "MPIN Recommender"])
-
 
 if page == "Home":
     st.markdown("##  MPIN Pattern Strength Checker")
@@ -95,7 +90,6 @@ if page == "Home":
             else:
                 st.warning(" This MPIN is weak. Try changing it.")
 
-
 elif page == "Demographic Checkpoint":
     st.markdown("##  Demographic Checkpoint")
     st.markdown("Check if your MPIN is guessable from your personal dates.")
@@ -117,13 +111,15 @@ elif page == "Demographic Checkpoint":
         if not mpin.isdigit():
             st.error(" MPIN must be numeric.")
         else:
-            label = predict_demographic_strength(mpin, dob_self, dob_spouse, dob_pet, anniversary)
+            label, reasons = predict_demographic_strength(mpin, dob_self, dob_spouse, dob_pet, anniversary)
             st.metric(label=" Strength", value=label)
 
             if label == "STRONG":
-                st.success(" Good! Your MPIN is not linked to personal dates.")
+                st.success("Good! Your MPIN is not linked to personal dates.")
+                st.success("Reasons: []")
             else:
-                st.warning(" Predictable MPIN. It matches a date you entered.")
+                st.warning("Predictable MPIN. It matches a date you entered.")
+                st.success(f"Reasons: {reasons}")
 
 elif page == "MPIN Recommender":
     st.markdown("##  MPIN Recommendation System")

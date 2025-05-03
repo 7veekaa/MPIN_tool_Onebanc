@@ -27,7 +27,6 @@ def predict_demographic_strength(mpin, dob_self, dob_spouse, dob_pet, anniversar
     pin_length = len(mpin)
     digit_diversity = len(set(mpin))
 
-    # Generate jumbled formats based on MPIN length
     jumbled_self = generate_jumbled_variants(dob_self, pin_length)
     jumbled_spouse = generate_jumbled_variants(dob_spouse, pin_length)
     jumbled_pet = generate_jumbled_variants(dob_pet, pin_length)
@@ -43,4 +42,20 @@ def predict_demographic_strength(mpin, dob_self, dob_spouse, dob_pet, anniversar
     prediction_encoded = model.predict(input_features)[0]
     prediction_label = label_encoder.inverse_transform([prediction_encoded])[0]
 
-    return prediction_label  
+
+    reasons = []
+
+    common_pins = ['1234', '1111', '0000', '1212', '7777', '2580', 
+                   '123456', '111111', '000000', '121212', '654321', '258025']
+
+    if mpin in common_pins:
+        reasons.append("COMMONLY_USED")
+    if is_in_self:
+        reasons.append("DEMOGRAPHIC_DOB_SELF")
+    if is_in_spouse:
+        reasons.append("DEMOGRAPHIC_DOB_SPOUSE")
+    if is_in_anniv:
+        reasons.append("DEMOGRAPHIC_ANNIVERSARY")
+
+
+    return prediction_label, reasons
